@@ -20,16 +20,27 @@ def Detected_pecies():
     if file.filename == '':
         return 'No selected file'
     if file:
-        UPLOAD_FOLDER = r'E:\KERJA\spudniklab\InsecstopProjeck\upload'
+        
+        # live
+        # UPLOAD_FOLDER = os.path.join(os.path.dirname(__file__), 'upload')
+        
+        # lokal
+        UPLOAD_FOLDER = r'E:\KERJA\spudniklab\InsectoscopeProjeckAPI\upload'
         app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
 
         filename = secure_filename(file.filename)  # Secure filename
         unique_filename = str(uuid.uuid4()) + os.path.splitext(filename)[1]  # Generate unique filename with original file extension
-        file.save(os.path.join(app.config['UPLOAD_FOLDER'], unique_filename))
+        file_path = os.path.join(app.config['UPLOAD_FOLDER'], unique_filename)
+        file.save(file_path)
         file_info = {'filename': unique_filename, 'filetype': file.content_type}
         result = processDetect(unique_filename)
-        print(result)
-        return result  # Pastikan hasilnya merupakan JSON
+        # Delete the file after processing
+        try:
+            os.remove(file_path)
+        except Exception as e:
+            return {'error': f'File deletion failed: {e}'}, 500
+
+        return result
     
     
 
