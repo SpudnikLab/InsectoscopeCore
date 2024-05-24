@@ -1,0 +1,337 @@
+id,length,name,sample_rate,record_datetime,sound_type,species,gender,fed,plurality,age,method,mic_type,device_type,country,district,province,place,location_type
+60,127.687,CDC_Ae-aegypti_labelled_800.wav,8000,08-09-16 8:00,mosquito,ae aegypti,,,Single,,,phone,Alcatel 4009X,USA,Georgia,Atlanta,"CDC insect cultures, Atlanta",culture
+220297,2.56,IFA_40_24_1584.wav,44100,13-03-20 0:00,mosquito,ae aegypti,Female,f,Single,,LC,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+220323,20.42,IFA_40_11_1571.wav,44100,13-03-20 0:00,mosquito,ae aegypti,Female,f,Single,,LC,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+220308,2.56,IFA_40_12_1572.wav,44100,13-03-20 0:00,mosquito,ae aegypti,Female,f,Single,,LC,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+65,529.664,CDC_Ae-aegypti_labelled_800.wav,8000,08-09-16 8:00,mosquito,ae aegypti,,,Single,,,phone,Alcatel 4009X,USA,Georgia,Atlanta,"CDC insect cultures, Atlanta",culture
+220467,5.12,IFA_45_10_1770.wav,44100,24-03-20 0:00,mosquito,ae aegypti,Female,f,Single,,LC,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+220462,7.68,IFA_45_14_1774.wav,44100,24-03-20 0:00,mosquito,ae aegypti,Female,f,Single,,LC,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+220401,5.12,IFA_42_22_1662.wav,44100,21-03-20 0:00,mosquito,ae aegypti,Female,f,Single,,LC,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+72,506.019,CDC_Ae-aegypti_labelled_800.wav,8000,08-09-16 8:00,mosquito,ae aegypti,,,Single,,,phone,Alcatel 4009X,USA,Georgia,Atlanta,"CDC insect cultures, Atlanta",culture
+220390,2.56,IFA_42_26_1666.wav,44100,21-03-20 0:00,mosquito,ae aegypti,Female,f,Single,,LC,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+150,203.788,CDC_Ae-albopictus_labelled_800.wav,8000,08-09-16 8:00,mosquito,ae albopictus,Male,,Single,,,phone,Alcatel 4009X,USA,Georgia,Atlanta,"CDC insect cultures, Atlanta",culture
+97,324.786,CDC_Ae-albopictus_labelled_800.wav,8000,08-09-16 8:00,mosquito,ae albopictus,,,Single,,,phone,Alcatel 4009X,USA,Georgia,Atlanta,"CDC insect cultures, Atlanta",culture
+117,92.978,CDC_Ae-albopictus_labelled_800.wav,8000,08-09-16 8:00,mosquito,ae albopictus,,,Single,,,phone,Alcatel 4009X,USA,Georgia,Atlanta,"CDC insect cultures, Atlanta",culture
+91,1.592.089,CDC_Ae-albopictus_labelled_800.wav,8000,08-09-16 8:00,mosquito,ae albopictus,,,Single,,,phone,Alcatel 4009X,USA,Georgia,Atlanta,"CDC insect cultures, Atlanta",culture
+132,38.847,CDC_Ae-albopictus_labelled_800.wav,8000,08-09-16 8:00,mosquito,ae albopictus,Male,,Single,,,phone,Alcatel 4009X,USA,Georgia,Atlanta,"CDC insect cultures, Atlanta",culture
+109,522.205,CDC_Ae-albopictus_labelled_800.wav,8000,08-09-16 8:00,mosquito,ae albopictus,,,Single,,,phone,Alcatel 4009X,USA,Georgia,Atlanta,"CDC insect cultures, Atlanta",culture
+98,273.839,CDC_Ae-albopictus_labelled_800.wav,8000,08-09-16 8:00,mosquito,ae albopictus,,,Single,,,phone,Alcatel 4009X,USA,Georgia,Atlanta,"CDC insect cultures, Atlanta",culture
+156,241.998,CDC_Ae-albopictus_labelled_800.wav,8000,08-09-16 8:00,mosquito,ae albopictus,Male,,Single,,,phone,Alcatel 4009X,USA,Georgia,Atlanta,"CDC insect cultures, Atlanta",culture
+107,312.049,CDC_Ae-albopictus_labelled_800.wav,8000,08-09-16 8:00,mosquito,ae albopictus,Male,,Single,,,phone,Alcatel 4009X,USA,Georgia,Atlanta,"CDC insect cultures, Atlanta",culture
+142,433.049,CDC_Ae-albopictus_labelled_800.wav,8000,08-09-16 8:00,mosquito,ae albopictus,,,Single,,,phone,Alcatel 4009X,USA,Georgia,Atlanta,"CDC insect cultures, Atlanta",culture
+209,449.116,CDC_An-albimanus_labelled_800.wav,8000,08-09-16 8:00,mosquito,an albimanus,,,Single,,,phone,Alcatel 4009X,USA,Georgia,Atlanta,"CDC insect cultures, Atlanta",culture
+212,189.101,CDC_An-albimanus_labelled_800.wav,8000,08-09-16 8:00,mosquito,an albimanus,,,Single,,,phone,Alcatel 4009X,USA,Georgia,Atlanta,"CDC insect cultures, Atlanta",culture
+219,184.374,CDC_An-albimanus_labelled_800.wav,8000,08-09-16 8:00,mosquito,an albimanus,,,Single,,,phone,Alcatel 4009X,USA,Georgia,Atlanta,"CDC insect cultures, Atlanta",culture
+216,146.554,CDC_An-albimanus_labelled_800.wav,8000,08-09-16 8:00,mosquito,an albimanus,,,Single,,,phone,Alcatel 4009X,USA,Georgia,Atlanta,"CDC insect cultures, Atlanta",culture
+200,156.009,CDC_An-albimanus_labelled_800.wav,8000,08-09-16 8:00,mosquito,an albimanus,,,Single,,,phone,Alcatel 4009X,USA,Georgia,Atlanta,"CDC insect cultures, Atlanta",culture
+189,113.461,CDC_An-albimanus_labelled_800.wav,8000,08-09-16 8:00,mosquito,an albimanus,,,Single,,,phone,Alcatel 4009X,USA,Georgia,Atlanta,"CDC insect cultures, Atlanta",culture
+166,156.009,CDC_An-albimanus_labelled_800.wav,8000,08-09-16 8:00,mosquito,an albimanus,,,Single,,,phone,Alcatel 4009X,USA,Georgia,Atlanta,"CDC insect cultures, Atlanta",culture
+208,184.374,CDC_An-albimanus_labelled_800.wav,8000,08-09-16 8:00,mosquito,an albimanus,,,Single,,,phone,Alcatel 4009X,USA,Georgia,Atlanta,"CDC insect cultures, Atlanta",culture
+220,444.389,CDC_An-albimanus_labelled_800.wav,8000,08-09-16 8:00,mosquito,an albimanus,,,Single,,,phone,Alcatel 4009X,USA,Georgia,Atlanta,"CDC insect cultures, Atlanta",culture
+198,420.751,CDC_An-albimanus_labelled_800.wav,8000,08-09-16 8:00,mosquito,an albimanus,,,Single,,,phone,Alcatel 4009X,USA,Georgia,Atlanta,"CDC insect cultures, Atlanta",culture
+208445,2.56,2020-11-24_21.28.08.879.wav,8000,24-11-20 21:28,mosquito,an arabiensis,,,,,HBN,phone,itel A16,Tanzania,Kilombero District,Morogoro,Ifakara,field
+220172,23.04,IFA_37_17_1457.wav,44100,04-03-20 0:00,mosquito,an arabiensis,Female,f,Single,,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+208397,5.12,2020-11-24_23.57.24.363.wav,8000,24-11-20 23:57,mosquito,an arabiensis,,,,,HBN,phone,itel A16,Tanzania,Kilombero District,Morogoro,Ifakara,field
+221573,25.54,IFA_55_29_2189.wav,44100,23-06-20 0:00,mosquito,an arabiensis,Male,f,Single,,LT,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+207585,5.12,2020-11-27_04.02.41.498.wav,8000,27-11-20 4:02,mosquito,an arabiensis,,,,,HBN,phone,itel A16,Tanzania,Kilombero District,Morogoro,Ifakara,field
+220557,5.12,IFA_22_40_880.wav,44100,08-02-20 0:00,mosquito,an arabiensis,Female,f,Single,,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+207537,2.56,2020-11-25_04.59.55.782.wav,8000,25-11-20 4:59,mosquito,an arabiensis,,,,,HBN,phone,itel A16,Tanzania,Kilombero District,Morogoro,Ifakara,field
+220553,2.56,IFA_21_10_810.wav,44100,08-02-20 0:00,mosquito,an arabiensis,Female,f,Single,,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+207630,2.56,2020-11-27_04.02.25.398.wav,8000,27-11-20 4:02,mosquito,an arabiensis,,,,,HBN,phone,itel A16,Tanzania,Kilombero District,Morogoro,Ifakara,field
+221971,12.8,IFA_64_10_2530.wav,44100,12-07-20 0:00,mosquito,an arabiensis,Female,f,Single,,LT,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+228,99.578,CDC_An-atroparvus_labelled_800.wav,8000,08-09-16 8:00,mosquito,an atroparvus,,,Single,,,phone,Alcatel 4009X,USA,Georgia,Atlanta,"CDC insect cultures, Atlanta",culture
+224,10.863,CDC_An-atroparvus_labelled_800.wav,8000,08-09-16 8:00,mosquito,an atroparvus,,,Single,,,phone,Alcatel 4009X,USA,Georgia,Atlanta,"CDC insect cultures, Atlanta",culture
+229,90.526,CDC_An-atroparvus_labelled_800.wav,8000,08-09-16 8:00,mosquito,an atroparvus,,,Single,,,phone,Alcatel 4009X,USA,Georgia,Atlanta,"CDC insect cultures, Atlanta",culture
+223,58.842,CDC_An-atroparvus_labelled_800.wav,8000,08-09-16 8:00,mosquito,an atroparvus,,,Single,,,phone,Alcatel 4009X,USA,Georgia,Atlanta,"CDC insect cultures, Atlanta",culture
+231,217.261,CDC_An-atroparvus_labelled_800.wav,8000,08-09-16 8:00,mosquito,an atroparvus,,,Single,,,phone,Alcatel 4009X,USA,Georgia,Atlanta,"CDC insect cultures, Atlanta",culture
+226,113.157,CDC_An-atroparvus_labelled_800.wav,8000,08-09-16 8:00,mosquito,an atroparvus,,,Single,,,phone,Alcatel 4009X,USA,Georgia,Atlanta,"CDC insect cultures, Atlanta",culture
+227,176.524,CDC_An-atroparvus_labelled_800.wav,8000,08-09-16 8:00,mosquito,an atroparvus,,,Single,,,phone,Alcatel 4009X,USA,Georgia,Atlanta,"CDC insect cultures, Atlanta",culture
+222,67.894,CDC_An-atroparvus_labelled_800.wav,8000,08-09-16 8:00,mosquito,an atroparvus,,,Single,,,phone,Alcatel 4009X,USA,Georgia,Atlanta,"CDC insect cultures, Atlanta",culture
+233,271.576,CDC_An-atroparvus_labelled_800.wav,8000,08-09-16 8:00,mosquito,an atroparvus,,,Single,,,phone,Alcatel 4009X,USA,Georgia,Atlanta,"CDC insect cultures, Atlanta",culture
+230,185.577,CDC_An-atroparvus_labelled_800.wav,8000,08-09-16 8:00,mosquito,an atroparvus,,,Single,,,phone,Alcatel 4009X,USA,Georgia,Atlanta,"CDC insect cultures, Atlanta",culture
+3460,8.922.293,#847-862.wav,44100,01-07-18 12:00,mosquito,an barbirostris,Female,t,Single,,ABN,telinga,olympus,Thailand,Sai Yok District,Kanchanaburi Province,field site near Pu Teuy Village,cup
+2758,4.345.873,#1188-1203.wav,44100,01-07-18 12:00,mosquito,an barbirostris,Female,t,Single,,ABN,telinga,olympus,Thailand,Sai Yok District,Kanchanaburi Province,field site near Pu Teuy Village,cup
+2971,8.302.125,#1394-1413.wav,44100,01-07-18 12:00,mosquito,an barbirostris,Female,t,Single,,ABN,telinga,olympus,Thailand,Sai Yok District,Kanchanaburi Province,field site near Pu Teuy Village,cup
+2686,11.980.243,#1115-1126.wav,44100,01-07-18 12:00,mosquito,an barbirostris,Female,t,Single,,ABN,telinga,olympus,Thailand,Sai Yok District,Kanchanaburi Province,field site near Pu Teuy Village,cup
+3321,10.455.293,#658-696.wav,44100,01-07-18 12:00,mosquito,an barbirostris,Female,t,Single,,ABN,telinga,olympus,Thailand,Sai Yok District,Kanchanaburi Province,field site near Pu Teuy Village,cup
+3304,13.091.576,#645-657.wav,44100,01-07-18 12:00,mosquito,an barbirostris,Female,t,Single,,ABN,telinga,olympus,Thailand,Sai Yok District,Kanchanaburi Province,field site near Pu Teuy Village,cup
+2769,8.312.424,#1204-1221.wav,44100,01-07-18 12:00,mosquito,an barbirostris,Female,t,Single,,ABN,telinga,olympus,Thailand,Sai Yok District,Kanchanaburi Province,field site near Pu Teuy Village,cup
+2716,3.323.352,#1142-1159.wav,44100,01-07-18 12:00,mosquito,an barbirostris,Female,t,Single,,ABN,telinga,olympus,Thailand,Sai Yok District,Kanchanaburi Province,field site near Pu Teuy Village,cup
+2763,1.170.747,#1204-1221.wav,44100,01-07-18 12:00,mosquito,an barbirostris,Female,t,Single,,ABN,telinga,olympus,Thailand,Sai Yok District,Kanchanaburi Province,field site near Pu Teuy Village,cup
+2884,7.379.321,#1313-1334.wav,44100,01-07-18 12:00,mosquito,an barbirostris,Female,t,Single,,ABN,telinga,olympus,Thailand,Sai Yok District,Kanchanaburi Province,field site near Pu Teuy Village,cup
+235,82.347,CDC_An-coluzzii_labelled_800.wav,8000,08-09-16 8:00,mosquito,an coluzzii,,,Single,,,phone,Alcatel 4009X,USA,Georgia,Atlanta,"CDC insect cultures, Atlanta",culture
+242,13.563,CDC_An-coluzzii_labelled_800.wav,8000,08-09-16 8:00,mosquito,an coluzzii,,,Single,,,phone,Alcatel 4009X,USA,Georgia,Atlanta,"CDC insect cultures, Atlanta",culture
+238,213.133,CDC_An-coluzzii_labelled_800.wav,8000,08-09-16 8:00,mosquito,an coluzzii,,,Single,,,phone,Alcatel 4009X,USA,Georgia,Atlanta,"CDC insect cultures, Atlanta",culture
+243,247.041,CDC_An-coluzzii_labelled_800.wav,8000,08-09-16 8:00,mosquito,an coluzzii,,,Single,,,phone,Alcatel 4009X,USA,Georgia,Atlanta,"CDC insect cultures, Atlanta",culture
+2543,32.099.722,LSTMH telinga audio - edited and labelled.wav,44100,25-04-18 11:30,mosquito,an coluzzii,Male,,Single,30.0,,telinga,olympus,UK,,,"LSTMH Culture cages, London",culture
+236,106.567,CDC_An-coluzzii_labelled_800.wav,8000,08-09-16 8:00,mosquito,an coluzzii,,,Single,,,phone,Alcatel 4009X,USA,Georgia,Atlanta,"CDC insect cultures, Atlanta",culture
+240,87.191,CDC_An-coluzzii_labelled_800.wav,8000,08-09-16 8:00,mosquito,an coluzzii,,,Single,,,phone,Alcatel 4009X,USA,Georgia,Atlanta,"CDC insect cultures, Atlanta",culture
+239,82.347,CDC_An-coluzzii_labelled_800.wav,8000,08-09-16 8:00,mosquito,an coluzzii,,,Single,,,phone,Alcatel 4009X,USA,Georgia,Atlanta,"CDC insect cultures, Atlanta",culture
+237,208.288,CDC_An-coluzzii_labelled_800.wav,8000,08-09-16 8:00,mosquito,an coluzzii,,,Single,,,phone,Alcatel 4009X,USA,Georgia,Atlanta,"CDC insect cultures, Atlanta",culture
+2548,42.854.265,LSTMH telinga audio - edited and labelled.wav,44100,25-04-18 11:30,mosquito,an coluzzii,Female,,Single,1.0,,telinga,olympus,UK,,,"LSTMH Culture cages, London",culture
+222237,2.56,IFA_70_17_2777.wav,44100,20-07-20 0:00,mosquito,an coustani,Female,f,Single,,LT,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+222162,5.12,IFA_68_18_2698.wav,44100,19-07-20 0:00,mosquito,an coustani,Female,f,Single,,LT,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+221782,7.62,IFA_58_12_2292.wav,44100,29-06-20 0:00,mosquito,an coustani,Female,f,Single,,LT,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+222196,17.92,IFA_68_15_2695.wav,44100,19-07-20 0:00,mosquito,an coustani,Female,f,Single,,LT,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+222022,25.6,IFA_64_28_2548.wav,44100,13-07-20 0:00,mosquito,an coustani,Female,f,Single,,LT,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+221638,23.04,IFA_56_30_2230.wav,44100,28-06-20 0:00,mosquito,an coustani,Female,f,Single,,LT,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+221655,2.56,IFA_57_11_2251.wav,44100,28-06-20 0:00,mosquito,an coustani,Female,f,Single,,LT,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+222153,10.24,IFA_68_28_2708.wav,44100,19-07-20 0:00,mosquito,an coustani,Female,t,Single,,LT,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+221689,12.8,IFA_56_34_2234.wav,44100,28-06-20 0:00,mosquito,an coustani,Female,f,Single,,LT,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+222000,10.24,IFA_65_20_2580.wav,44100,13-07-20 0:00,mosquito,an coustani,Female,f,Single,,LT,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+260,393.391,CDC_An-dirus_labelled_800.wav,8000,08-09-16 8:00,mosquito,an dirus,,,Single,,,phone,Alcatel 4009X,USA,Georgia,Atlanta,"CDC insect cultures, Atlanta",culture
+3454,6.749.725,#817-827.wav,44100,01-07-18 12:00,mosquito,an dirus,Female,t,Single,,ABN,telinga,olympus,Thailand,Sai Yok District,Kanchanaburi Province,field site near Pu Teuy Village,cup
+3125,999.858,#407-422.wav,44100,01-07-18 12:00,mosquito,an dirus,Female,f,Single,,HLC,telinga,olympus,Thailand,Sai Yok District,Kanchanaburi Province,field site near Pu Teuy Village,cup
+3499,9.669.386,#939-962.wav,44100,01-07-18 12:00,mosquito,an dirus,Female,t,Single,,ABN,telinga,olympus,Thailand,Sai Yok District,Kanchanaburi Province,field site near Pu Teuy Village,cup
+3239,415.571,#540-576.wav,44100,01-07-18 12:00,mosquito,an dirus,Female,t,Single,,ABN,telinga,olympus,Thailand,Sai Yok District,Kanchanaburi Province,field site near Pu Teuy Village,cup
+259,16.925,CDC_An-dirus_labelled_800.wav,8000,08-09-16 8:00,mosquito,an dirus,,,Single,,,phone,Alcatel 4009X,USA,Georgia,Atlanta,"CDC insect cultures, Atlanta",culture
+3323,792.946,#658-696.wav,44100,01-07-18 12:00,mosquito,an dirus,Female,t,Single,,ABN,telinga,olympus,Thailand,Sai Yok District,Kanchanaburi Province,field site near Pu Teuy Village,cup
+245,498.601,CDC_An-dirus_labelled_800.wav,8000,08-09-16 8:00,mosquito,an dirus,,,Single,,,phone,Alcatel 4009X,USA,Georgia,Atlanta,"CDC insect cultures, Atlanta",culture
+3181,10.192.997,#423-487.wav,44100,01-07-18 12:00,mosquito,an dirus,Female,t,Single,,ABN,telinga,olympus,Thailand,Sai Yok District,Kanchanaburi Province,field site near Pu Teuy Village,cup
+3464,3.900.787,#879-891.wav,44100,01-07-18 12:00,mosquito,an dirus,Female,t,Single,,ABN,telinga,olympus,Thailand,Sai Yok District,Kanchanaburi Province,field site near Pu Teuy Village,cup
+273,102.236,CDC_An-farauti_labelled_800.wav,8000,08-09-16 8:00,mosquito,an farauti,,,Single,,,phone,Alcatel 4009X,USA,Georgia,Atlanta,"CDC insect cultures, Atlanta",culture
+266,55.379,CDC_An-farauti_labelled_800.wav,8000,08-09-16 8:00,mosquito,an farauti,,,Single,,,phone,Alcatel 4009X,USA,Georgia,Atlanta,"CDC insect cultures, Atlanta",culture
+272,123.536,CDC_An-farauti_labelled_800.wav,8000,08-09-16 8:00,mosquito,an farauti,,,Single,,,phone,Alcatel 4009X,USA,Georgia,Atlanta,"CDC insect cultures, Atlanta",culture
+269,63.898,CDC_An-farauti_labelled_800.wav,8000,08-09-16 8:00,mosquito,an farauti,,,Single,,,phone,Alcatel 4009X,USA,Georgia,Atlanta,"CDC insect cultures, Atlanta",culture
+274,85.197,CDC_An-farauti_labelled_800.wav,8000,08-09-16 8:00,mosquito,an farauti,,,Single,,,phone,Alcatel 4009X,USA,Georgia,Atlanta,"CDC insect cultures, Atlanta",culture
+263,72.417,CDC_An-farauti_labelled_800.wav,8000,08-09-16 8:00,mosquito,an farauti,,,Single,,,phone,Alcatel 4009X,USA,Georgia,Atlanta,"CDC insect cultures, Atlanta",culture
+265,72.418,CDC_An-farauti_labelled_800.wav,8000,08-09-16 8:00,mosquito,an farauti,,,Single,,,phone,Alcatel 4009X,USA,Georgia,Atlanta,"CDC insect cultures, Atlanta",culture
+264,80.938,CDC_An-farauti_labelled_800.wav,8000,08-09-16 8:00,mosquito,an farauti,,,Single,,,phone,Alcatel 4009X,USA,Georgia,Atlanta,"CDC insect cultures, Atlanta",culture
+270,68.158,CDC_An-farauti_labelled_800.wav,8000,08-09-16 8:00,mosquito,an farauti,,,Single,,,phone,Alcatel 4009X,USA,Georgia,Atlanta,"CDC insect cultures, Atlanta",culture
+271,93.717,CDC_An-farauti_labelled_800.wav,8000,08-09-16 8:00,mosquito,an farauti,,,Single,,,phone,Alcatel 4009X,USA,Georgia,Atlanta,"CDC insect cultures, Atlanta",culture
+280,186.512,CDC_An-freeborni_labelled_800.wav,8000,08-09-16 8:00,mosquito,an freeborni,,,Plural,,,phone,Alcatel 4009X,USA,Georgia,Atlanta,"CDC insect cultures, Atlanta",culture
+293,212.112,CDC_An-freeborni_labelled_800.wav,8000,08-09-16 8:00,mosquito,an freeborni,,,Single,,,phone,Alcatel 4009X,USA,Georgia,Atlanta,"CDC insect cultures, Atlanta",culture
+309,146.285,CDC_An-freeborni_labelled_800.wav,8000,08-09-16 8:00,mosquito,an freeborni,,,Single,,,phone,Alcatel 4009X,USA,Georgia,Atlanta,"CDC insect cultures, Atlanta",culture
+306,117.027,CDC_An-freeborni_labelled_800.wav,8000,08-09-16 8:00,mosquito,an freeborni,,,Single,,,phone,Alcatel 4009X,USA,Georgia,Atlanta,"CDC insect cultures, Atlanta",culture
+308,117.027,CDC_An-freeborni_labelled_800.wav,8000,08-09-16 8:00,mosquito,an freeborni,,,Single,,,phone,Alcatel 4009X,USA,Georgia,Atlanta,"CDC insect cultures, Atlanta",culture
+324,223.084,CDC_An-freeborni_labelled_800.wav,8000,08-09-16 8:00,mosquito,an freeborni,,,Single,,,phone,Alcatel 4009X,USA,Georgia,Atlanta,"CDC insect cultures, Atlanta",culture
+312,124.341,CDC_An-freeborni_labelled_800.wav,8000,08-09-16 8:00,mosquito,an freeborni,,,Single,,,phone,Alcatel 4009X,USA,Georgia,Atlanta,"CDC insect cultures, Atlanta",culture
+304,8.777,CDC_An-freeborni_labelled_800.wav,8000,08-09-16 8:00,mosquito,an freeborni,,,Single,,,phone,Alcatel 4009X,USA,Georgia,Atlanta,"CDC insect cultures, Atlanta",culture
+321,95.084,CDC_An-freeborni_labelled_800.wav,8000,08-09-16 8:00,mosquito,an freeborni,,,Single,,,phone,Alcatel 4009X,USA,Georgia,Atlanta,"CDC insect cultures, Atlanta",culture
+296,102.399,CDC_An-freeborni_labelled_800.wav,8000,08-09-16 8:00,mosquito,an freeborni,,,Plural,,,phone,Alcatel 4009X,USA,Georgia,Atlanta,"CDC insect cultures, Atlanta",culture
+331,149.889,CDC_An-funestus_labelled_800.wav,8000,08-09-16 8:00,mosquito,an funestus,,,Single,,,phone,Alcatel 4009X,USA,Georgia,Atlanta,"CDC insect cultures, Atlanta",culture
+337,122.986,CDC_An-funestus_labelled_800.wav,8000,08-09-16 8:00,mosquito,an funestus,,,Single,,,phone,Alcatel 4009X,USA,Georgia,Atlanta,"CDC insect cultures, Atlanta",culture
+328,342.056,CDC_An-funestus_labelled_800.wav,8000,08-09-16 8:00,mosquito,an funestus,,,Single,,,phone,Alcatel 4009X,USA,Georgia,Atlanta,"CDC insect cultures, Atlanta",culture
+340,107.612,CDC_An-funestus_labelled_800.wav,8000,08-09-16 8:00,mosquito,an funestus,,,Single,,,phone,Alcatel 4009X,USA,Georgia,Atlanta,"CDC insect cultures, Atlanta",culture
+336,65.337,CDC_An-funestus_labelled_800.wav,8000,08-09-16 8:00,mosquito,an funestus,,,Single,,,phone,Alcatel 4009X,USA,Georgia,Atlanta,"CDC insect cultures, Atlanta",culture
+345,69.179,CDC_An-funestus_labelled_800.wav,8000,08-09-16 8:00,mosquito,an funestus,,,Single,,,phone,Alcatel 4009X,USA,Georgia,Atlanta,"CDC insect cultures, Atlanta",culture
+334,76.866,CDC_An-funestus_labelled_800.wav,8000,08-09-16 8:00,mosquito,an funestus,,,Single,,,phone,Alcatel 4009X,USA,Georgia,Atlanta,"CDC insect cultures, Atlanta",culture
+332,146.046,CDC_An-funestus_labelled_800.wav,8000,08-09-16 8:00,mosquito,an funestus,,,Single,,,phone,Alcatel 4009X,USA,Georgia,Atlanta,"CDC insect cultures, Atlanta",culture
+339,96.083,CDC_An-funestus_labelled_800.wav,8000,08-09-16 8:00,mosquito,an funestus,,,Single,,,phone,Alcatel 4009X,USA,Georgia,Atlanta,"CDC insect cultures, Atlanta",culture
+342,76.867,CDC_An-funestus_labelled_800.wav,8000,08-09-16 8:00,mosquito,an funestus,,,Single,,,phone,Alcatel 4009X,USA,Georgia,Atlanta,"CDC insect cultures, Atlanta",culture
+220107,7.68,IFA_35_28_1388.wav,44100,02-03-20 0:00,mosquito,an funestus sl,Female,f,Single,,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+222187,48.58,IFA_69_20_2740.wav,44100,19-07-20 0:00,mosquito,an funestus sl,Female,f,Single,,LT,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+220190,15.3,IFA_36_13_1413.wav,44100,04-03-20 0:00,mosquito,an funestus sl,Female,f,Single,,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+221417,25.6,IFA_52_34_2074.wav,44100,21-06-20 0:00,mosquito,an funestus sl,Female,f,Single,,LT,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+220920,2.56,IFA_32_35_1275.wav,44100,20-02-20 0:00,mosquito,an funestus sl,Female,f,Single,,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+222539,10.24,IFA_85_10_3370.wav,44100,23-08-20 0:00,mosquito,an funestus sl,Female,f,Single,,LT,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+220354,7.68,IFA_40_38_1598.wav,44100,16-03-20 0:00,mosquito,an funestus sl,Female,f,Single,,LT,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+222133,12.8,IFA_67_30_2670.wav,44100,14-07-20 0:00,mosquito,an funestus sl,Female,f,Single,,LT,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+221440,7.68,IFA_52_37_2077.wav,44100,21-06-20 0:00,mosquito,an funestus sl,Female,f,Single,,LT,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+221372,38.34,IFA_50_16_1976.wav,44100,17-06-20 0:00,mosquito,an funestus sl,Female,f,Single,,LT,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+222510,53.76,IFA_75_12_2972.wav,44100,02-08-20 0:00,mosquito,an funestus ss,Female,f,Single,,LT,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+221358,74.18,IFA_49_39_1959.wav,44100,17-06-20 0:00,mosquito,an funestus ss,Female,f,Single,,LT,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+222545,30.72,IFA_85_23_3383.wav,44100,23-08-20 0:00,mosquito,an funestus ss,Female,f,Single,,LT,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+220256,05.06,IFA_39_15_1535.wav,44100,11-03-20 0:00,mosquito,an funestus ss,Female,f,Single,,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+220932,2.56,IFA_30_13_1173.wav,44100,17-02-20 0:00,mosquito,an funestus ss,Female,f,Single,,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+220160,7.68,IFA_36_22_1422.wav,44100,04-03-20 0:00,mosquito,an funestus ss,Female,f,Single,,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+222549,35.84,IFA_85_14_3374.wav,44100,23-08-20 0:00,mosquito,an funestus ss,Female,f,Single,,LT,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+220184,12.8,IFA_36_37_1437.wav,44100,04-03-20 0:00,mosquito,an funestus ss,Female,f,Single,,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+222621,30.72,IFA_86_26_3426.wav,44100,23-08-20 0:00,mosquito,an funestus ss,Female,f,Single,,LT,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+221978,5.12,IFA_64_21_2541.wav,44100,12-07-20 0:00,mosquito,an funestus ss,Female,f,Single,,LT,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+389,98.818,CDC_An-gambiae_labelled_800.wav,8000,08-09-16 8:00,mosquito,an gambiae,,,Single,,,phone,Alcatel 4009X,USA,Georgia,Atlanta,"CDC insect cultures, Atlanta",culture
+381,145.875,CDC_An-gambiae_labelled_800.wav,8000,08-09-16 8:00,mosquito,an gambiae,,,Single,,,phone,Alcatel 4009X,USA,Georgia,Atlanta,"CDC insect cultures, Atlanta",culture
+387,131.758,CDC_An-gambiae_labelled_800.wav,8000,08-09-16 8:00,mosquito,an gambiae,,,Single,,,phone,Alcatel 4009X,USA,Georgia,Atlanta,"CDC insect cultures, Atlanta",culture
+379,112.936,CDC_An-gambiae_labelled_800.wav,8000,08-09-16 8:00,mosquito,an gambiae,,,Single,,,phone,Alcatel 4009X,USA,Georgia,Atlanta,"CDC insect cultures, Atlanta",culture
+398,188.226,CDC_An-gambiae_labelled_800.wav,8000,08-09-16 8:00,mosquito,an gambiae,,,Single,,,phone,Alcatel 4009X,USA,Georgia,Atlanta,"CDC insect cultures, Atlanta",culture
+397,84.702,CDC_An-gambiae_labelled_800.wav,8000,08-09-16 8:00,mosquito,an gambiae,,,Single,,,phone,Alcatel 4009X,USA,Georgia,Atlanta,"CDC insect cultures, Atlanta",culture
+380,10.823,CDC_An-gambiae_labelled_800.wav,8000,08-09-16 8:00,mosquito,an gambiae,,,Single,,,phone,Alcatel 4009X,USA,Georgia,Atlanta,"CDC insect cultures, Atlanta",culture
+384,98.819,CDC_An-gambiae_labelled_800.wav,8000,08-09-16 8:00,mosquito,an gambiae,,,Single,,,phone,Alcatel 4009X,USA,Georgia,Atlanta,"CDC insect cultures, Atlanta",culture
+2532,20.425.516,LSTMH telinga audio - edited and labelled.wav,44100,25-04-18 11:30,mosquito,an gambiae,Female,,Single,1.0,,telinga,olympus,UK,,,"LSTMH Culture cages, London",culture
+375,84.702,CDC_An-gambiae_labelled_800.wav,8000,08-09-16 8:00,mosquito,an gambiae,,,Single,,,phone,Alcatel 4009X,USA,Georgia,Atlanta,"CDC insect cultures, Atlanta",culture
+220479,12.8,IFA_44_24_1744.wav,44100,24-03-20 0:00,mosquito,an gambiae sl,Female,f,Single,,LT,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+220673,5.12,IFA_25_21_981.wav,44100,10-02-20 0:00,mosquito,an gambiae sl,Female,f,Single,,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+221280,30.72,IFA_47_20_1860.wav,44100,27-03-20 0:00,mosquito,an gambiae sl,Female,f,Single,,LT,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+220396,10.24,IFA_41_39_1639.wav,44100,21-03-20 0:00,mosquito,an gambiae sl,Female,f,Single,,LT,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+221285,7.68,IFA_47_15_1855.wav,44100,27-03-20 0:00,mosquito,an gambiae sl,Female,f,Single,,LT,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+221289,5.12,IFA_46_40_1840.wav,44100,27-03-20 0:00,mosquito,an gambiae sl,Female,f,Single,,LT,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+220369,7.68,IFA_40_39_1599.wav,44100,16-03-20 0:00,mosquito,an gambiae sl,Female,f,Single,,LT,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+220394,5.12,IFA_41_39_1639.wav,44100,21-03-20 0:00,mosquito,an gambiae sl,Female,f,Single,,LT,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+220440,15.3,IFA_44_17_1737.wav,44100,24-03-20 0:00,mosquito,an gambiae sl,Female,f,Single,,LT,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+221880,15.36,IFA_63_35_2515.wav,44100,07-07-20 0:00,mosquito,an gambiae sl,Female,f,Single,,LT,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+219943,2.7,r2016-07-26_10.58.27.770.wav_u2016-07-26_13.00.40.462339.wav,8000,26-07-16 10:58,mosquito,an gambiae ss,Female,f,Single,6.0,,phone,Alcatel 4015X,Kenya,,Nairobi,USAMRU-K,culture
+219275,3.8,r2016-05-31_11.50.19.366.wav_u2016-06-02_07.24.31.333997.wav,8000,31-05-16 11:50,mosquito,an gambiae ss,Female,f,Single,,,phone,Alcatel 4015X,Kenya,,Nairobi,USAMRU-K,culture
+218998,8.5,r2016-05-26_09.59.07.587.wav_u2016-05-31_07.06.23.743558.wav,8000,26-05-16 9:59,mosquito,an gambiae ss,Female,f,Single,,,phone,Alcatel 4015X,Kenya,,Nairobi,USAMRU-K,culture
+219942,1.2,r2016-07-26_10.57.27.729.wav_u2016-07-26_13.00.36.247942.wav,8000,26-07-16 10:57,mosquito,an gambiae ss,Female,f,Single,6.0,,phone,Alcatel 4015X,Kenya,,Nairobi,USAMRU-K,culture
+218980,5.5,r2016-05-26_09.47.43.657.wav_u2016-05-31_07.03.44.069181.wav,8000,26-05-16 9:47,mosquito,an gambiae ss,Female,f,Single,,,phone,Alcatel 4015X,Kenya,,Nairobi,USAMRU-K,culture
+219304,4.5,r2016-05-31_12.18.01.927.wav_u2016-06-02_07.26.41.861119.wav,8000,31-05-16 12:18,mosquito,an gambiae ss,Female,f,Single,,,phone,Alcatel 4015X,Kenya,,Nairobi,USAMRU-K,culture
+219189,2.4,r2016-05-31_10.29.46.701.wav_u2016-06-02_07.17.11.575356.wav,8000,31-05-16 10:29,mosquito,an gambiae ss,Female,f,Single,,,phone,Alcatel 4015X,Kenya,,Nairobi,USAMRU-K,culture
+219167,3.9,r2016-05-31_10.20.20.357.wav_u2016-06-02_07.15.50.560599.wav,8000,31-05-16 10:20,mosquito,an gambiae ss,Female,f,Single,,,phone,Alcatel 4015X,Kenya,,Nairobi,USAMRU-K,culture
+2453,2.093.001,r2016-08-16_11.07.24.567.wav_u2016-08-16_12.54.35.527530.wav,8000,16-08-16 11:07,mosquito,an gambiae ss,Female,f,Single,27.0,,phone,Alcatel 4015X,Kenya,,Nairobi,USAMRU-K,culture
+218963,7.4,r2016-05-26_09.33.39.128.wav_u2016-05-31_07.01.54.545591.wav,8000,26-05-16 9:33,mosquito,an gambiae ss,Female,f,Single,,,phone,Alcatel 4015X,Kenya,,Nairobi,USAMRU-K,culture
+3391,727.249,#697-730.wav,44100,01-07-18 12:00,mosquito,an harrisoni,Female,t,Single,,ABN,telinga,olympus,Thailand,Sai Yok District,Kanchanaburi Province,field site near Pu Teuy Village,cup
+2866,2.711.638,#1296-1312.wav,44100,01-07-18 12:00,mosquito,an harrisoni,Female,t,Single,,ABN,telinga,olympus,Thailand,Sai Yok District,Kanchanaburi Province,field site near Pu Teuy Village,cup
+2720,12.952.056,#1142-1159.wav,44100,01-07-18 12:00,mosquito,an harrisoni,Female,t,Single,,ABN,telinga,olympus,Thailand,Sai Yok District,Kanchanaburi Province,field site near Pu Teuy Village,cup
+2755,4.964.115,#1188-1203.wav,44100,01-07-18 12:00,mosquito,an harrisoni,Female,t,Single,,ABN,telinga,olympus,Thailand,Sai Yok District,Kanchanaburi Province,field site near Pu Teuy Village,cup
+3400,4.773.326,#731-736.wav,44100,01-07-18 12:00,mosquito,an harrisoni,Female,t,Single,,ABN,telinga,olympus,Thailand,Sai Yok District,Kanchanaburi Province,field site near Pu Teuy Village,cup
+2589,8.031.747,#1021-1039.wav,44100,01-07-18 12:00,mosquito,an harrisoni,Female,t,Single,,ABN,telinga,olympus,Thailand,Sai Yok District,Kanchanaburi Province,field site near Pu Teuy Village,cup
+2858,7.642.053,#1280-1295.wav,44100,01-07-18 12:00,mosquito,an harrisoni,Female,t,Single,,ABN,telinga,olympus,Thailand,Sai Yok District,Kanchanaburi Province,field site near Pu Teuy Village,cup
+3025,3.730.435,#26-60.wav,44100,01-07-18 12:00,mosquito,an harrisoni,Female,f,Single,,ABN,telinga,olympus,Thailand,Sai Yok District,Kanchanaburi Province,field site near Pu Teuy Village,cup
+3029,6.066.245,#26-60.wav,44100,01-07-18 12:00,mosquito,an harrisoni,Female,f,Single,,ABN,telinga,olympus,Thailand,Sai Yok District,Kanchanaburi Province,field site near Pu Teuy Village,cup
+3360,4.038.177,#69-79.wav,44100,01-07-18 12:00,mosquito,an harrisoni,Female,f,Single,,HLC,telinga,olympus,Thailand,Sai Yok District,Kanchanaburi Province,field site near Pu Teuy Village,cup
+221724,33.22,IFA_60_19_2379.wav,44100,30-06-20 0:00,mosquito,an leesoni,Female,f,Single,,LT,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+220969,7.68,IFA_30_26_1186.wav,44100,17-02-20 0:00,mosquito,an leesoni,Female,f,Single,,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+220970,2.56,IFA_30_26_1186.wav,44100,17-02-20 0:00,mosquito,an leesoni,Female,f,Single,,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+2742,6.415.301,#1160-1177.wav,44100,01-07-18 12:00,mosquito,an maculatus,Female,t,Single,,ABN,telinga,olympus,Thailand,Sai Yok District,Kanchanaburi Province,field site near Pu Teuy Village,cup
+2694,4.044.374,#1127-1141.wav,44100,01-07-18 12:00,mosquito,an maculatus,Female,t,Single,,ABN,telinga,olympus,Thailand,Sai Yok District,Kanchanaburi Province,field site near Pu Teuy Village,cup
+2998,957.015,#209-219.wav,44100,01-07-18 12:00,mosquito,an maculatus,Female,f,Single,,ABN,telinga,olympus,Thailand,Sai Yok District,Kanchanaburi Province,field site near Pu Teuy Village,cup
+3234,4.639.607,#527-539.wav,44100,01-07-18 12:00,mosquito,an maculatus,Female,t,Single,,ABN,telinga,olympus,Thailand,Sai Yok District,Kanchanaburi Province,field site near Pu Teuy Village,cup
+2732,4.592.773,#1160-1177.wav,44100,01-07-18 12:00,mosquito,an maculatus,Female,t,Single,,ABN,telinga,olympus,Thailand,Sai Yok District,Kanchanaburi Province,field site near Pu Teuy Village,cup
+3258,14.181.863,#540-576.wav,44100,01-07-18 12:00,mosquito,an maculatus,Female,t,Single,,ABN,telinga,olympus,Thailand,Sai Yok District,Kanchanaburi Province,field site near Pu Teuy Village,cup
+2974,1.384.589,#1394-1413.wav,44100,01-07-18 12:00,mosquito,an maculatus,Female,t,Single,,ABN,telinga,olympus,Thailand,Sai Yok District,Kanchanaburi Province,field site near Pu Teuy Village,cup
+3385,737.596,#697-730.wav,44100,01-07-18 12:00,mosquito,an maculatus,Female,t,Single,,ABN,telinga,olympus,Thailand,Sai Yok District,Kanchanaburi Province,field site near Pu Teuy Village,cup
+3498,6.010.915,#939-962.wav,44100,01-07-18 12:00,mosquito,an maculatus,Female,t,Single,,ABN,telinga,olympus,Thailand,Sai Yok District,Kanchanaburi Province,field site near Pu Teuy Village,cup
+2896,5.292.524,#1313-1334.wav,44100,01-07-18 12:00,mosquito,an maculatus,Female,t,Single,,ABN,telinga,olympus,Thailand,Sai Yok District,Kanchanaburi Province,field site near Pu Teuy Village,cup
+222232,25.6,IFA_69_37_2757.wav,44100,20-07-20 0:00,mosquito,an maculipalpis,Female,f,Single,,LT,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+222222,48.64,IFA_68_39_2719.wav,44100,19-07-20 0:00,mosquito,an maculipalpis,Female,t,Single,,LT,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+222181,25.6,IFA_68_25_2705.wav,44100,19-07-20 0:00,mosquito,an maculipalpis,Female,f,Single,,LT,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+222202,10.24,IFA_68_12_2692.wav,44100,19-07-20 0:00,mosquito,an maculipalpis,Female,f,Single,,LT,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+222184,2.56,IFA_68_10_2690.wav,44100,19-07-20 0:00,mosquito,an maculipalpis,Female,t,Single,,LT,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+222321,15.36,IFA_71_39_2839.wav,44100,27-07-20 0:00,mosquito,an maculipalpis,Female,f,Single,,LT,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+222194,48.64,IFA_69_17_2737.wav,44100,19-07-20 0:00,mosquito,an maculipalpis,Female,t,Single,,LT,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+222201,15.36,IFA_68_12_2692.wav,44100,19-07-20 0:00,mosquito,an maculipalpis,Female,f,Single,,LT,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+222233,5.12,IFA_70_13_2773.wav,44100,20-07-20 0:00,mosquito,an maculipalpis,Female,f,Single,,LT,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+222173,12.8,IFA_69_12_2732.wav,44100,19-07-20 0:00,mosquito,an maculipalpis,Female,f,Single,,LT,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+404,377.873,CDC_An-merus_labelled_800.wav,8000,08-09-16 8:00,mosquito,an merus,,,Single,,,phone,Alcatel 4009X,USA,Georgia,Atlanta,"CDC insect cultures, Atlanta",culture
+405,517.826,CDC_An-merus_labelled_800.wav,8000,08-09-16 8:00,mosquito,an merus,,,Single,,,phone,Alcatel 4009X,USA,Georgia,Atlanta,"CDC insect cultures, Atlanta",culture
+403,97.967,CDC_An-merus_labelled_800.wav,8000,08-09-16 8:00,mosquito,an merus,,,Plural,,,phone,Alcatel 4009X,USA,Georgia,Atlanta,"CDC insect cultures, Atlanta",culture
+406,419.859,CDC_An-merus_labelled_800.wav,8000,08-09-16 8:00,mosquito,an merus,,,Single,,,phone,Alcatel 4009X,USA,Georgia,Atlanta,"CDC insect cultures, Atlanta",culture
+407,423.587,CDC_An-minimus_labelled_800.wav,8000,08-09-16 8:00,mosquito,an minimus,,,Single,,,phone,Alcatel 4009X,USA,Georgia,Atlanta,"CDC insect cultures, Atlanta",culture
+408,149.218,CDC_An-minimus_labelled_800.wav,8000,08-09-16 8:00,mosquito,an minimus,,,Single,,,phone,Alcatel 4009X,USA,Georgia,Atlanta,"CDC insect cultures, Atlanta",culture
+3246,10.084.656,#540-576.wav,44100,01-07-18 12:00,mosquito,an minimus,Female,t,Single,,ABN,telinga,olympus,Thailand,Sai Yok District,Kanchanaburi Province,field site near Pu Teuy Village,cup
+410,101.084,CDC_An-minimus_labelled_800.wav,8000,08-09-16 8:00,mosquito,an minimus,,,Single,,,phone,Alcatel 4009X,USA,Georgia,Atlanta,"CDC insect cultures, Atlanta",culture
+417,105.897,CDC_An-minimus_labelled_800.wav,8000,08-09-16 8:00,mosquito,an minimus,,,Single,,,phone,Alcatel 4009X,USA,Georgia,Atlanta,"CDC insect cultures, Atlanta",culture
+2878,5.857.582,#1313-1334.wav,44100,01-07-18 12:00,mosquito,an minimus,Female,t,Single,,ABN,telinga,olympus,Thailand,Sai Yok District,Kanchanaburi Province,field site near Pu Teuy Village,cup
+3274,1.141.916,#577-599.wav,44100,01-07-18 12:00,mosquito,an minimus,Female,t,Single,,ABN,telinga,olympus,Thailand,Sai Yok District,Kanchanaburi Province,field site near Pu Teuy Village,cup
+3232,1.940.793,#527-539.wav,44100,01-07-18 12:00,mosquito,an minimus,Female,t,Single,,ABN,telinga,olympus,Thailand,Sai Yok District,Kanchanaburi Province,field site near Pu Teuy Village,cup
+418,120.337,CDC_An-minimus_labelled_800.wav,8000,08-09-16 8:00,mosquito,an minimus,,,Single,,,phone,Alcatel 4009X,USA,Georgia,Atlanta,"CDC insect cultures, Atlanta",culture
+412,38.507,CDC_An-minimus_labelled_800.wav,8000,08-09-16 8:00,mosquito,an minimus,,,Single,,,phone,Alcatel 4009X,USA,Georgia,Atlanta,"CDC insect cultures, Atlanta",culture
+220624,40.96,IFA_24_28_948.wav,44100,10-02-20 0:00,mosquito,an pharoensis,Female,f,Single,,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+220625,05.06,IFA_24_28_948.wav,44100,10-02-20 0:00,mosquito,an pharoensis,Female,f,Single,,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+220623,10.24,IFA_24_28_948.wav,44100,10-02-20 0:00,mosquito,an pharoensis,Female,f,Single,,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+427,100.212,CDC_An-quadrimaculatus_labelled_800.wav,8000,08-09-16 8:00,mosquito,an quadriannulatus,,,Single,,,phone,Alcatel 4009X,USA,Georgia,Atlanta,"CDC insect cultures, Atlanta",culture
+455,129.441,CDC_An-quadrimaculatus_labelled_800.wav,8000,08-09-16 8:00,mosquito,an quadriannulatus,,,Single,,,phone,Alcatel 4009X,USA,Georgia,Atlanta,"CDC insect cultures, Atlanta",culture
+450,187.897,CDC_An-quadrimaculatus_labelled_800.wav,8000,08-09-16 8:00,mosquito,an quadriannulatus,,,Single,,,phone,Alcatel 4009X,USA,Georgia,Atlanta,"CDC insect cultures, Atlanta",culture
+424,155.243,CDC_An-quadriannulatus_labelled_800.wav,8000,08-09-16 8:00,mosquito,an quadriannulatus,,,Single,,,phone,Alcatel 4009X,USA,Georgia,Atlanta,"CDC insect cultures, Atlanta",culture
+479,200.425,CDC_An-quadrimaculatus_labelled_800.wav,8000,08-09-16 8:00,mosquito,an quadriannulatus,,,Single,,,phone,Alcatel 4009X,USA,Georgia,Atlanta,"CDC insect cultures, Atlanta",culture
+483,187.897,CDC_An-quadrimaculatus_labelled_800.wav,8000,08-09-16 8:00,mosquito,an quadriannulatus,,,Single,,,phone,Alcatel 4009X,USA,Georgia,Atlanta,"CDC insect cultures, Atlanta",culture
+437,8.351,CDC_An-quadrimaculatus_labelled_800.wav,8000,08-09-16 8:00,mosquito,an quadriannulatus,,,Single,,,phone,Alcatel 4009X,USA,Georgia,Atlanta,"CDC insect cultures, Atlanta",culture
+475,208.776,CDC_An-quadrimaculatus_labelled_800.wav,8000,08-09-16 8:00,mosquito,an quadriannulatus,,,Single,,,phone,Alcatel 4009X,USA,Georgia,Atlanta,"CDC insect cultures, Atlanta",culture
+435,179.547,CDC_An-quadrimaculatus_labelled_800.wav,8000,08-09-16 8:00,mosquito,an quadriannulatus,,,Single,,,phone,Alcatel 4009X,USA,Georgia,Atlanta,"CDC insect cultures, Atlanta",culture
+464,584.571,CDC_An-quadrimaculatus_labelled_800.wav,8000,08-09-16 8:00,mosquito,an quadriannulatus,,,Single,,,phone,Alcatel 4009X,USA,Georgia,Atlanta,"CDC insect cultures, Atlanta",culture
+220413,5.12,IFA_42_10_1650.wav,44100,21-03-20 0:00,mosquito,an rivulorum,Female,f,Single,,LT,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+491,11.125,CDC_An-sinensis_labelled_800.wav,8000,08-09-16 8:00,mosquito,an sinensis,,,Single,,,phone,Alcatel 4009X,USA,Georgia,Atlanta,"CDC insect cultures, Atlanta",culture
+499,84.281,CDC_An-sinensis_labelled_800.wav,8000,08-09-16 8:00,mosquito,an sinensis,,,Single,,,phone,Alcatel 4009X,USA,Georgia,Atlanta,"CDC insect cultures, Atlanta",culture
+495,104.507,CDC_An-sinensis_labelled_800.wav,8000,08-09-16 8:00,mosquito,an sinensis,,,Single,,,phone,Alcatel 4009X,USA,Georgia,Atlanta,"CDC insect cultures, Atlanta",culture
+492,50.568,CDC_An-sinensis_labelled_800.wav,8000,08-09-16 8:00,mosquito,an sinensis,,,Single,,,phone,Alcatel 4009X,USA,Georgia,Atlanta,"CDC insect cultures, Atlanta",culture
+489,97.765,CDC_An-sinensis_labelled_800.wav,8000,08-09-16 8:00,mosquito,an sinensis,,,Single,,,phone,Alcatel 4009X,USA,Georgia,Atlanta,"CDC insect cultures, Atlanta",culture
+490,74.166,CDC_An-sinensis_labelled_800.wav,8000,08-09-16 8:00,mosquito,an sinensis,,,Single,,,phone,Alcatel 4009X,USA,Georgia,Atlanta,"CDC insect cultures, Atlanta",culture
+496,87.652,CDC_An-sinensis_labelled_800.wav,8000,08-09-16 8:00,mosquito,an sinensis,,,Single,,,phone,Alcatel 4009X,USA,Georgia,Atlanta,"CDC insect cultures, Atlanta",culture
+497,5.731,CDC_An-sinensis_labelled_800.wav,8000,08-09-16 8:00,mosquito,an sinensis,,,Single,,,phone,Alcatel 4009X,USA,Georgia,Atlanta,"CDC insect cultures, Atlanta",culture
+498,107.879,CDC_An-sinensis_labelled_800.wav,8000,08-09-16 8:00,mosquito,an sinensis,,,Single,,,phone,Alcatel 4009X,USA,Georgia,Atlanta,"CDC insect cultures, Atlanta",culture
+493,64.053,CDC_An-sinensis_labelled_800.wav,8000,08-09-16 8:00,mosquito,an sinensis,,,Single,,,phone,Alcatel 4009X,USA,Georgia,Atlanta,"CDC insect cultures, Atlanta",culture
+220487,30.72,IFA_44_31_1751.wav,44100,24-03-20 0:00,mosquito,an squamosus,Female,f,Single,,LT,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+220331,7.68,IFA_41_14_1614.wav,44100,16-03-20 0:00,mosquito,an squamosus,Female,f,Single,,LT,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+220478,12.8,IFA_43_30_1710.wav,44100,24-03-20 0:00,mosquito,an squamosus,Female,f,Single,,LT,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+220508,2.56,IFA_43_37_1717.wav,44100,24-03-20 0:00,mosquito,an squamosus,Female,f,Single,,LT,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+220486,2.56,IFA_44_31_1751.wav,44100,24-03-20 0:00,mosquito,an squamosus,Female,f,Single,,LT,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+220497,5.12,IFA_43_10_1690.wav,44100,24-03-20 0:00,mosquito,an squamosus,Female,f,Single,,LT,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+220495,5.12,IFA_43_10_1690.wav,44100,24-03-20 0:00,mosquito,an squamosus,Female,f,Single,,LT,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+221744,46.02,IFA_60_14_2374.wav,44100,30-06-20 0:00,mosquito,an squamosus,Female,f,Single,,LT,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+220493,22.98,IFA_44_26_1746.wav,44100,24-03-20 0:00,mosquito,an squamosus,Female,f,Single,,LT,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+221275,17.92,IFA_46_36_1836.wav,44100,27-03-20 0:00,mosquito,an squamosus,Female,f,Single,,LT,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+509,161.769,CDC_An-stephensi_labelled_800.wav,8000,08-09-16 8:00,mosquito,an stephensi,,,Single,,,phone,Alcatel 4009X,USA,Georgia,Atlanta,"CDC insect cultures, Atlanta",culture
+506,174.213,CDC_An-stephensi_labelled_800.wav,8000,08-09-16 8:00,mosquito,an stephensi,,,Single,,,phone,Alcatel 4009X,USA,Georgia,Atlanta,"CDC insect cultures, Atlanta",culture
+523,68.441,CDC_An-stephensi_labelled_800.wav,8000,08-09-16 8:00,mosquito,an stephensi,,,Single,,,phone,Alcatel 4009X,USA,Georgia,Atlanta,"CDC insect cultures, Atlanta",culture
+520,93.328,CDC_An-stephensi_labelled_800.wav,8000,08-09-16 8:00,mosquito,an stephensi,,,Single,,,phone,Alcatel 4009X,USA,Georgia,Atlanta,"CDC insect cultures, Atlanta",culture
+513,143.103,CDC_An-stephensi_labelled_800.wav,8000,08-09-16 8:00,mosquito,an stephensi,,,Single,,,phone,Alcatel 4009X,USA,Georgia,Atlanta,"CDC insect cultures, Atlanta",culture
+519,267.541,CDC_An-stephensi_labelled_800.wav,8000,08-09-16 8:00,mosquito,an stephensi,,,Single,,,phone,Alcatel 4009X,USA,Georgia,Atlanta,"CDC insect cultures, Atlanta",culture
+502,99.551,CDC_An-stephensi_labelled_800.wav,8000,08-09-16 8:00,mosquito,an stephensi,,,Single,,,phone,Alcatel 4009X,USA,Georgia,Atlanta,"CDC insect cultures, Atlanta",culture
+500,118.215,CDC_An-stephensi_labelled_800.wav,8000,08-09-16 8:00,mosquito,an stephensi,,,Single,,,phone,Alcatel 4009X,USA,Georgia,Atlanta,"CDC insect cultures, Atlanta",culture
+508,143.103,CDC_An-stephensi_labelled_800.wav,8000,08-09-16 8:00,mosquito,an stephensi,,,Single,,,phone,Alcatel 4009X,USA,Georgia,Atlanta,"CDC insect cultures, Atlanta",culture
+514,292.429,CDC_An-stephensi_labelled_800.wav,8000,08-09-16 8:00,mosquito,an stephensi,,,Single,,,phone,Alcatel 4009X,USA,Georgia,Atlanta,"CDC insect cultures, Atlanta",culture
+220637,35.84,IFA_24_23_943.wav,44100,10-02-20 0:00,mosquito,an ziemanni,Female,f,Single,,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+220864,5.12,IFA_26_30_1030.wav,44100,10-02-20 0:00,mosquito,an ziemanni,Female,f,Single,,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+220569,5.12,IFA_24_13_933.wav,44100,10-02-20 0:00,mosquito,an ziemanni,Female,f,Single,,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+220366,15.3,IFA_40_29_1589.wav,44100,16-03-20 0:00,mosquito,an ziemanni,Female,f,Single,,LT,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+220620,20.48,IFA_24_15_935.wav,44100,10-02-20 0:00,mosquito,an ziemanni,Female,f,Single,,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+220365,5.12,IFA_40_29_1589.wav,44100,16-03-20 0:00,mosquito,an ziemanni,Female,f,Single,,LT,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+220568,10.24,IFA_24_13_933.wav,44100,10-02-20 0:00,mosquito,an ziemanni,Female,f,Single,,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+220364,5.12,IFA_40_29_1589.wav,44100,16-03-20 0:00,mosquito,an ziemanni,Female,f,Single,,LT,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+220619,7.68,IFA_24_15_935.wav,44100,10-02-20 0:00,mosquito,an ziemanni,Female,f,Single,,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+221488,5.12,IFA_50_34_1994.wav,44100,17-06-20 0:00,mosquito,coquillettidia sp,Female,f,Single,,LT,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+221489,20.48,IFA_50_34_1994.wav,44100,17-06-20 0:00,mosquito,coquillettidia sp,Female,f,Single,,LT,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+221747,10.24,IFA_60_24_2384.wav,44100,30-06-20 0:00,mosquito,culex pipiens complex,Female,t,Single,,LT,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+221024,2.56,IFA_31_15_1215.wav,44100,18-02-20 0:00,mosquito,culex pipiens complex,Female,f,Single,,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+220726,25.54,IFA_29_20_1140.wav,44100,14-02-20 0:00,mosquito,culex pipiens complex,Female,f,Single,,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+221903,10.24,IFA_63_27_2507.wav,44100,07-07-20 0:00,mosquito,culex pipiens complex,Female,f,Single,,LT,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+221015,28.1,IFA_31_38_1238.wav,44100,18-02-20 0:00,mosquito,culex pipiens complex,Female,f,Single,,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+220955,17.92,IFA_30_17_1177.wav,44100,17-02-20 0:00,mosquito,culex pipiens complex,Female,f,Single,,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+222493,5.12,IFA_76_27_3027.wav,44100,02-08-20 0:00,mosquito,culex pipiens complex,Female,f,Single,,LT,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+221795,2.56,IFA_59_28_2348.wav,44100,29-06-20 0:00,mosquito,culex pipiens complex,Female,f,Single,,LT,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+221571,7.68,IFA_55_24_2184.wav,44100,23-06-20 0:00,mosquito,culex pipiens complex,Female,f,Single,,LT,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+221752,20.42,IFA_60_28_2388.wav,44100,30-06-20 0:00,mosquito,culex pipiens complex,Female,f,Single,,LT,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+199937,53.5,0040_norm.wav,8000,10-01-16 0:00,mosquito,culex quinquefasciatus,,,,,,phone,Alcatel,UK,Oxfordshire,,Oxford Zoology,culture
+1547,3.193.328,R4_cleaned recording_TEL_24-10-17.wav,44100,24-10-17 0:00,mosquito,culex quinquefasciatus,,,,,,Telinga,,UK,Oxfordshire,,Oxford Zoology,cup
+1327,4.243.705,R4_cleaned recording_TEL_23-10-17.wav,44100,23-10-17 0:00,mosquito,culex quinquefasciatus,,,,,,Telinga,,UK,Oxfordshire,,Oxford Zoology,cup
+1513,7.201.417,R4_cleaned recording_TEL_24-10-17.wav,44100,24-10-17 0:00,mosquito,culex quinquefasciatus,,,,,,Telinga,,UK,Oxfordshire,,Oxford Zoology,cup
+1770,5.275.916,R4_cleaned recording_TEL_25-10-17.wav,44100,25-10-17 0:00,mosquito,culex quinquefasciatus,,,,,,Telinga,,UK,Oxfordshire,,Oxford Zoology,cup
+1629,3.116.937,R4_cleaned recording_TEL_25-10-17.wav,44100,25-10-17 0:00,mosquito,culex quinquefasciatus,,,,,,Telinga,,UK,Oxfordshire,,Oxford Zoology,cup
+1670,9.379.407,R4_cleaned recording_TEL_25-10-17.wav,44100,25-10-17 0:00,mosquito,culex quinquefasciatus,,,,,,Telinga,,UK,Oxfordshire,,Oxford Zoology,cup
+990,8.044.111,R4_cleaned recording_TEL_19-10-17.wav,44100,19-10-17 0:00,mosquito,culex quinquefasciatus,,,,,,Telinga,,UK,Oxfordshire,,Oxford Zoology,cup
+1680,8.950.471,R4_cleaned recording_TEL_25-10-17.wav,44100,25-10-17 0:00,mosquito,culex quinquefasciatus,,,,,,Telinga,,UK,Oxfordshire,,Oxford Zoology,cup
+199887,12.2,0022_norm.wav,8000,10-01-16 0:00,mosquito,culex quinquefasciatus,,,,,,phone,Alcatel,UK,Oxfordshire,,Oxford Zoology,culture
+589,183.101,CDC_Cx-tarsalis_labelled_800.wav,8000,08-09-16 8:00,mosquito,culex tarsalis,,,Single,,,phone,Alcatel 4009X,USA,Georgia,Atlanta,"CDC insect cultures, Atlanta",culture
+582,503.527,CDC_Cx-tarsalis_labelled_800.wav,8000,08-09-16 8:00,mosquito,culex tarsalis,,,Single,,,phone,Alcatel 4009X,USA,Georgia,Atlanta,"CDC insect cultures, Atlanta",culture
+558,517.259,CDC_Cx-tarsalis_labelled_800.wav,8000,08-09-16 8:00,mosquito,culex tarsalis,,,Single,,,phone,Alcatel 4009X,USA,Georgia,Atlanta,"CDC insect cultures, Atlanta",culture
+561,215.143,CDC_Cx-tarsalis_labelled_800.wav,8000,08-09-16 8:00,mosquito,culex tarsalis,,,Single,,,phone,Alcatel 4009X,USA,Georgia,Atlanta,"CDC insect cultures, Atlanta",culture
+578,151.058,CDC_Cx-tarsalis_labelled_800.wav,8000,08-09-16 8:00,mosquito,culex tarsalis,,,Single,,,phone,Alcatel 4009X,USA,Georgia,Atlanta,"CDC insect cultures, Atlanta",culture
+570,270.073,CDC_Cx-tarsalis_labelled_800.wav,8000,08-09-16 8:00,mosquito,culex tarsalis,,,Single,,,phone,Alcatel 4009X,USA,Georgia,Atlanta,"CDC insect cultures, Atlanta",culture
+567,224.299,CDC_Cx-tarsalis_labelled_800.wav,8000,08-09-16 8:00,mosquito,culex tarsalis,,,Single,,,phone,Alcatel 4009X,USA,Georgia,Atlanta,"CDC insect cultures, Atlanta",culture
+581,709.516,CDC_Cx-tarsalis_labelled_800.wav,8000,08-09-16 8:00,mosquito,culex tarsalis,,,Single,,,phone,Alcatel 4009X,USA,Georgia,Atlanta,"CDC insect cultures, Atlanta",culture
+585,238.031,CDC_Cx-tarsalis_labelled_800.wav,8000,08-09-16 8:00,mosquito,culex tarsalis,,,Single,,,phone,Alcatel 4009X,USA,Georgia,Atlanta,"CDC insect cultures, Atlanta",culture
+565,357.046,CDC_Cx-tarsalis_labelled_800.wav,8000,08-09-16 8:00,mosquito,culex tarsalis,,,Single,,,phone,Alcatel 4009X,USA,Georgia,Atlanta,"CDC insect cultures, Atlanta",culture
+220147,2.56,IFA_37_36_1476.wav,44100,04-03-20 0:00,mosquito,culex tigripes,Female,f,Single,,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+220913,15.36,IFA_32_24_1264.wav,44100,20-02-20 0:00,mosquito,culex tigripes,Female,f,Single,,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+220818,12.8,IFA_28_12_1092.wav,44100,12-02-20 0:00,mosquito,culex tigripes,Female,f,Single,,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+221009,2.56,IFA_33_25_1305.wav,44100,29-02-20 0:00,mosquito,culex tigripes,Female,f,Single,,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+220808,2.56,IFA_28_36_1116.wav,44100,12-02-20 0:00,mosquito,culex tigripes,Female,f,Single,,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+220807,7.68,IFA_28_36_1116.wav,44100,12-02-20 0:00,mosquito,culex tigripes,Female,f,Single,,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+221010,5.12,IFA_33_25_1305.wav,44100,29-02-20 0:00,mosquito,culex tigripes,Female,f,Single,,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+220886,2.5,IFA_32_40_1280.wav,44100,20-02-20 0:00,mosquito,culex tigripes,Female,f,Single,,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+220806,5.12,IFA_28_36_1116.wav,44100,12-02-20 0:00,mosquito,culex tigripes,Female,f,Single,,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+220973,17.92,IFA_34_15_1335.wav,44100,29-02-20 0:00,mosquito,culex tigripes,Female,f,Single,,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+221110,2.56,IFA_17_25_665.wav,44100,30-01-20 0:00,mosquito,ma africanus,Female,f,Single,,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+220567,2.56,IFA_23_15_895.wav,44100,10-02-20 0:00,mosquito,ma africanus,Female,t,Single,,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+222440,30.66,IFA_75_10_2970.wav,44100,28-07-20 0:00,mosquito,ma africanus,Female,f,Single,,LT,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+220581,05.06,IFA_23_20_900.wav,44100,10-02-20 0:00,mosquito,ma africanus,Female,f,Single,,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+220838,28.16,IFA_26_39_1039.wav,44100,10-02-20 0:00,mosquito,ma africanus,Female,f,Single,,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+220810,2.56,IFA_28_26_1106.wav,44100,12-02-20 0:00,mosquito,ma africanus,Female,f,Single,,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+222470,12.8,IFA_75_23_2983.wav,44100,02-08-20 0:00,mosquito,ma africanus,Female,f,Single,,LT,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+220811,2.56,IFA_28_26_1106.wav,44100,12-02-20 0:00,mosquito,ma africanus,Female,f,Single,,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+220802,05.06,IFA_28_25_1105.wav,44100,12-02-20 0:00,mosquito,ma africanus,Female,f,Single,,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+221139,5.12,IFA_17_30_670.wav,44100,30-01-20 0:00,mosquito,ma africanus,Female,f,Single,,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+220712,2.5,IFA_29_39_1159.wav,44100,14-02-20 0:00,mosquito,ma uniformis,Female,f,Single,,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+220776,25.54,IFA_27_11_1051.wav,44100,12-02-20 0:00,mosquito,ma uniformis,Female,f,Single,,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+220647,5.12,IFA_24_27_947.wav,44100,10-02-20 0:00,mosquito,ma uniformis,Female,f,Single,,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+220604,15.36,IFA_23_16_896.wav,44100,10-02-20 0:00,mosquito,ma uniformis,Female,f,Single,,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+220814,2.56,IFA_28_23_1103.wav,44100,12-02-20 0:00,mosquito,ma uniformis,Female,f,Single,,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+220585,10.24,IFA_23_37_917.wav,44100,10-02-20 0:00,mosquito,ma uniformis,Female,f,Single,,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+221464,17.92,IFA_50_36_1996.wav,44100,17-06-20 0:00,mosquito,ma uniformis,Female,f,Single,,LT,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+222515,10.24,IFA_76_33_3033.wav,44100,02-08-20 0:00,mosquito,ma uniformis,Female,f,Single,,LT,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+221148,2.5,IFA_17_33_673.wav,44100,30-01-20 0:00,mosquito,ma uniformis,Female,f,Single,,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+220695,2.5,IFA_24_31_951.wav,44100,10-02-20 0:00,mosquito,ma uniformis,Female,f,Single,,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+2522,21.703.647,LSTMH telinga audio - edited and labelled.wav,44100,25-04-18 11:30,mosquito,toxorhynchites brevipalpis,Female,,Single,1.0,,telinga,olympus,UK,,,"LSTMH Culture cages, London",culture
+2526,15.657.104,LSTMH telinga audio - edited and labelled.wav,44100,25-04-18 11:30,mosquito,toxorhynchites brevipalpis,Male,,Single,30.0,,telinga,olympus,UK,,,"LSTMH Culture cages, London",culture
+2538,30.503.086,LSTMH telinga audio - edited and labelled.wav,44100,25-04-18 11:30,mosquito,toxorhynchites brevipalpis,Female,,Single,30.0,,telinga,olympus,UK,,,"LSTMH Culture cages, London",culture
+2524,16.763.179,LSTMH telinga audio - edited and labelled.wav,44100,25-04-18 11:30,mosquito,toxorhynchites brevipalpis,Male,,Single,1.0,,telinga,olympus,UK,,,"LSTMH Culture cages, London",culture

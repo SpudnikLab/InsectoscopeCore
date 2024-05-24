@@ -1,0 +1,501 @@
+id,length,name,sample_rate,record_datetime,sound_type,species,gender,fed,plurality,age,method,mic_type,device_type,country,district,province,place,location_type
+53,463.456,CDC_Ae-aegypti_labelled_800.wav,8000,08-09-16 8:00,mosquito,ae aegypti,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+110,815.149,CDC_Ae-albopictus_labelled_800.wav,8000,08-09-16 8:00,mosquito,ae albopictus,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+180,212.739,CDC_An-albimanus_labelled_800.wav,8000,08-09-16 8:00,mosquito,an albimanus,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+221,149.935,CDC_An-arabiensis_labelled_800.wav,8000,08-09-16 8:00,mosquito,an arabiensis,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+222,67.894,CDC_An-atroparvus_labelled_800.wav,8000,08-09-16 8:00,mosquito,an atroparvus,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+235,82.347,CDC_An-coluzzii_labelled_800.wav,8000,08-09-16 8:00,mosquito,an coluzzii,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+244,256.162,CDC_An-dirus_labelled_800.wav,8000,08-09-16 8:00,mosquito,an dirus,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+263,72.417,CDC_An-farauti_labelled_800.wav,8000,08-09-16 8:00,mosquito,an farauti,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+310,182.855,CDC_An-freeborni_labelled_800.wav,8000,08-09-16 8:00,mosquito,an freeborni,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+328,342.056,CDC_An-funestus_labelled_800.wav,8000,08-09-16 8:00,mosquito,an funestus,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+370,89.407,CDC_An-gambiae_labelled_800.wav,8000,08-09-16 8:00,mosquito,an gambiae,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+403,97.967,CDC_An-merus_labelled_800.wav,8000,08-09-16 8:00,mosquito,an merus,nan,nan,Plural,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+407,423.587,CDC_An-minimus_labelled_800.wav,8000,08-09-16 8:00,mosquito,an minimus,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+419,25.726,CDC_An-quadriannulatus_labelled_800.wav,8000,08-09-16 8:00,mosquito,an quadriannulatus,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+489,97.765,CDC_An-sinensis_labelled_800.wav,8000,08-09-16 8:00,mosquito,an sinensis,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+500,118.215,CDC_An-stephensi_labelled_800.wav,8000,08-09-16 8:00,mosquito,an stephensi,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+540,730.265,CDC_Cx-quinquefasciatus_labelled_800.wav,8000,08-09-16 8:00,mosquito,culex quinquefasciatus,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+551,187.678,CDC_Cx-tarsalis_labelled_800.wav,8000,08-09-16 8:00,mosquito,culex tarsalis,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+221103,2.56,IFA_17_24_664.wav,44100,30-01-20 0:00,mosquito,ma africanus,Female,f,Single,nan,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+221121,2.56,IFA_17_27_667.wav,44100,30-01-20 0:00,mosquito,ma uniformis,Female,f,Single,nan,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+221145,38.4,IFA_17_28_668.wav,44100,30-01-20 0:00,mosquito,culex pipiens complex,Female,f,Single,nan,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+221164,5.12,IFA_18_36_716.wav,44100,03-02-20 0:00,mosquito,an funestus ss,Female,t,Single,nan,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+220546,2.56,IFA_21_25_825.wav,44100,08-02-20 0:00,mosquito,an funestus sl,Female,f,Single,nan,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+220569,5.12,IFA_24_13_933.wav,44100,10-02-20 0:00,mosquito,an ziemanni,Female,f,Single,nan,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+220624,40.96,IFA_24_28_948.wav,44100,10-02-20 0:00,mosquito,an pharoensis,Female,f,Single,nan,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+220674,2.56,IFA_25_21_981.wav,44100,10-02-20 0:00,mosquito,an gambiae sl,Female,f,Single,nan,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+220818,12.8,IFA_28_12_1092.wav,44100,12-02-20 0:00,mosquito,culex tigripes,Female,f,Single,nan,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+220969,7.68,IFA_30_26_1186.wav,44100,17-02-20 0:00,mosquito,an leesoni,Female,f,Single,nan,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+220342,12.8,IFA_40_30_1590.wav,44100,16-03-20 0:00,mosquito,an squamosus,Female,f,Single,nan,LT,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+220346,2.56,IFA_40_31_1591.wav,44100,16-03-20 0:00,mosquito,an coustani,Female,f,Single,nan,LT,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+220413,5.12,IFA_42_10_1650.wav,44100,21-03-20 0:00,mosquito,an rivulorum,Female,f,Single,nan,LT,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+221489,20.48,IFA_50_34_1994.wav,44100,17-06-20 0:00,mosquito,coquillettidia sp,Female,f,Single,nan,LT,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+222212,43.52,IFA_67_34_2674.wav,44100,19-07-20 0:00,mosquito,an maculipalpis,Female,f,Single,nan,LT,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+219443,5.4,r2016-05-24_09.40.35.384.wav_u2016-05-24_12.45.24.671356.wav,8000,24-05-16 9:40,mosquito,an gambiae ss,Female,f,Single,3.0,nan,phone,Alcatel 4015X,Kenya,nan,Nairobi,USAMRU-K,culture
+2524,16.763.179,LSTMH telinga audio - edited and labelled.wav,44100,25-04-18 11:30,mosquito,toxorhynchites brevipalpis,Male,nan,Single,1.0,nan,telinga,olympus,UK,nan,nan,LSTMH Culture cages, London,culture
+2564,4.591.411,#1002-1011.wav,44100,01-07-18 12:00,mosquito,an harrisoni,Female,t,Single,nan,ABN,telinga,olympus,Thailand,Sai Yok District,Kanchanaburi Province,field site near Pu Teuy Village,cup
+2593,7.780.932,#1021-1039.wav,44100,01-07-18 12:00,mosquito,an maculatus,Female,t,Single,nan,ABN,telinga,olympus,Thailand,Sai Yok District,Kanchanaburi Province,field site near Pu Teuy Village,cup
+2686,11.980.243,#1115-1126.wav,44100,01-07-18 12:00,mosquito,an barbirostris,Female,t,Single,nan,ABN,telinga,olympus,Thailand,Sai Yok District,Kanchanaburi Province,field site near Pu Teuy Village,cup
+53,463.456,CDC_Ae-aegypti_labelled_800.wav,8000,08-09-16 8:00,mosquito,ae aegypti,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+110,815.149,CDC_Ae-albopictus_labelled_800.wav,8000,08-09-16 8:00,mosquito,ae albopictus,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+180,212.739,CDC_An-albimanus_labelled_800.wav,8000,08-09-16 8:00,mosquito,an albimanus,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+221,149.935,CDC_An-arabiensis_labelled_800.wav,8000,08-09-16 8:00,mosquito,an arabiensis,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+222,67.894,CDC_An-atroparvus_labelled_800.wav,8000,08-09-16 8:00,mosquito,an atroparvus,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+235,82.347,CDC_An-coluzzii_labelled_800.wav,8000,08-09-16 8:00,mosquito,an coluzzii,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+244,256.162,CDC_An-dirus_labelled_800.wav,8000,08-09-16 8:00,mosquito,an dirus,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+263,72.417,CDC_An-farauti_labelled_800.wav,8000,08-09-16 8:00,mosquito,an farauti,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+310,182.855,CDC_An-freeborni_labelled_800.wav,8000,08-09-16 8:00,mosquito,an freeborni,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+328,342.056,CDC_An-funestus_labelled_800.wav,8000,08-09-16 8:00,mosquito,an funestus,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+370,89.407,CDC_An-gambiae_labelled_800.wav,8000,08-09-16 8:00,mosquito,an gambiae,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+403,97.967,CDC_An-merus_labelled_800.wav,8000,08-09-16 8:00,mosquito,an merus,nan,nan,Plural,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+407,423.587,CDC_An-minimus_labelled_800.wav,8000,08-09-16 8:00,mosquito,an minimus,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+419,25.726,CDC_An-quadriannulatus_labelled_800.wav,8000,08-09-16 8:00,mosquito,an quadriannulatus,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+489,97.765,CDC_An-sinensis_labelled_800.wav,8000,08-09-16 8:00,mosquito,an sinensis,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+500,118.215,CDC_An-stephensi_labelled_800.wav,8000,08-09-16 8:00,mosquito,an stephensi,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+540,730.265,CDC_Cx-quinquefasciatus_labelled_800.wav,8000,08-09-16 8:00,mosquito,culex quinquefasciatus,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+551,187.678,CDC_Cx-tarsalis_labelled_800.wav,8000,08-09-16 8:00,mosquito,culex tarsalis,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+221103,2.56,IFA_17_24_664.wav,44100,30-01-20 0:00,mosquito,ma africanus,Female,f,Single,nan,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+221121,2.56,IFA_17_27_667.wav,44100,30-01-20 0:00,mosquito,ma uniformis,Female,f,Single,nan,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+221145,38.4,IFA_17_28_668.wav,44100,30-01-20 0:00,mosquito,culex pipiens complex,Female,f,Single,nan,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+221164,5.12,IFA_18_36_716.wav,44100,03-02-20 0:00,mosquito,an funestus ss,Female,t,Single,nan,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+220546,2.56,IFA_21_25_825.wav,44100,08-02-20 0:00,mosquito,an funestus sl,Female,f,Single,nan,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+220569,5.12,IFA_24_13_933.wav,44100,10-02-20 0:00,mosquito,an ziemanni,Female,f,Single,nan,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+220624,40.96,IFA_24_28_948.wav,44100,10-02-20 0:00,mosquito,an pharoensis,Female,f,Single,nan,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+220674,2.56,IFA_25_21_981.wav,44100,10-02-20 0:00,mosquito,an gambiae sl,Female,f,Single,nan,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+220818,12.8,IFA_28_12_1092.wav,44100,12-02-20 0:00,mosquito,culex tigripes,Female,f,Single,nan,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+220969,7.68,IFA_30_26_1186.wav,44100,17-02-20 0:00,mosquito,an leesoni,Female,f,Single,nan,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+220342,12.8,IFA_40_30_1590.wav,44100,16-03-20 0:00,mosquito,an squamosus,Female,f,Single,nan,LT,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+220346,2.56,IFA_40_31_1591.wav,44100,16-03-20 0:00,mosquito,an coustani,Female,f,Single,nan,LT,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+221489,20.48,IFA_50_34_1994.wav,44100,17-06-20 0:00,mosquito,coquillettidia sp,Female,f,Single,nan,LT,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+222212,43.52,IFA_67_34_2674.wav,44100,19-07-20 0:00,mosquito,an maculipalpis,Female,f,Single,nan,LT,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+219443,5.4,r2016-05-24_09.40.35.384.wav_u2016-05-24_12.45.24.671356.wav,8000,24-05-16 9:40,mosquito,an gambiae ss,Female,f,Single,3.0,nan,phone,Alcatel 4015X,Kenya,nan,Nairobi,USAMRU-K,culture
+2524,16.763.179,LSTMH telinga audio - edited and labelled.wav,44100,25-04-18 11:30,mosquito,toxorhynchites brevipalpis,Male,nan,Single,1.0,nan,telinga,olympus,UK,nan,nan,LSTMH Culture cages, London,culture
+2564,4.591.411,#1002-1011.wav,44100,01-07-18 12:00,mosquito,an harrisoni,Female,t,Single,nan,ABN,telinga,olympus,Thailand,Sai Yok District,Kanchanaburi Province,field site near Pu Teuy Village,cup
+2593,7.780.932,#1021-1039.wav,44100,01-07-18 12:00,mosquito,an maculatus,Female,t,Single,nan,ABN,telinga,olympus,Thailand,Sai Yok District,Kanchanaburi Province,field site near Pu Teuy Village,cup
+2686,11.980.243,#1115-1126.wav,44100,01-07-18 12:00,mosquito,an barbirostris,Female,t,Single,nan,ABN,telinga,olympus,Thailand,Sai Yok District,Kanchanaburi Province,field site near Pu Teuy Village,cup
+53,463.456,CDC_Ae-aegypti_labelled_800.wav,8000,08-09-16 8:00,mosquito,ae aegypti,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+110,815.149,CDC_Ae-albopictus_labelled_800.wav,8000,08-09-16 8:00,mosquito,ae albopictus,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+180,212.739,CDC_An-albimanus_labelled_800.wav,8000,08-09-16 8:00,mosquito,an albimanus,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+221,149.935,CDC_An-arabiensis_labelled_800.wav,8000,08-09-16 8:00,mosquito,an arabiensis,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+222,67.894,CDC_An-atroparvus_labelled_800.wav,8000,08-09-16 8:00,mosquito,an atroparvus,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+235,82.347,CDC_An-coluzzii_labelled_800.wav,8000,08-09-16 8:00,mosquito,an coluzzii,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+244,256.162,CDC_An-dirus_labelled_800.wav,8000,08-09-16 8:00,mosquito,an dirus,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+263,72.417,CDC_An-farauti_labelled_800.wav,8000,08-09-16 8:00,mosquito,an farauti,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+310,182.855,CDC_An-freeborni_labelled_800.wav,8000,08-09-16 8:00,mosquito,an freeborni,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+328,342.056,CDC_An-funestus_labelled_800.wav,8000,08-09-16 8:00,mosquito,an funestus,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+370,89.407,CDC_An-gambiae_labelled_800.wav,8000,08-09-16 8:00,mosquito,an gambiae,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+403,97.967,CDC_An-merus_labelled_800.wav,8000,08-09-16 8:00,mosquito,an merus,nan,nan,Plural,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+407,423.587,CDC_An-minimus_labelled_800.wav,8000,08-09-16 8:00,mosquito,an minimus,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+419,25.726,CDC_An-quadriannulatus_labelled_800.wav,8000,08-09-16 8:00,mosquito,an quadriannulatus,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+489,97.765,CDC_An-sinensis_labelled_800.wav,8000,08-09-16 8:00,mosquito,an sinensis,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+500,118.215,CDC_An-stephensi_labelled_800.wav,8000,08-09-16 8:00,mosquito,an stephensi,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+540,730.265,CDC_Cx-quinquefasciatus_labelled_800.wav,8000,08-09-16 8:00,mosquito,culex quinquefasciatus,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+551,187.678,CDC_Cx-tarsalis_labelled_800.wav,8000,08-09-16 8:00,mosquito,culex tarsalis,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+221103,2.56,IFA_17_24_664.wav,44100,30-01-20 0:00,mosquito,ma africanus,Female,f,Single,nan,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+221121,2.56,IFA_17_27_667.wav,44100,30-01-20 0:00,mosquito,ma uniformis,Female,f,Single,nan,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+221145,38.4,IFA_17_28_668.wav,44100,30-01-20 0:00,mosquito,culex pipiens complex,Female,f,Single,nan,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+221164,5.12,IFA_18_36_716.wav,44100,03-02-20 0:00,mosquito,an funestus ss,Female,t,Single,nan,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+220546,2.56,IFA_21_25_825.wav,44100,08-02-20 0:00,mosquito,an funestus sl,Female,f,Single,nan,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+220569,5.12,IFA_24_13_933.wav,44100,10-02-20 0:00,mosquito,an ziemanni,Female,f,Single,nan,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+220624,40.96,IFA_24_28_948.wav,44100,10-02-20 0:00,mosquito,an pharoensis,Female,f,Single,nan,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+220674,2.56,IFA_25_21_981.wav,44100,10-02-20 0:00,mosquito,an gambiae sl,Female,f,Single,nan,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+220818,12.8,IFA_28_12_1092.wav,44100,12-02-20 0:00,mosquito,culex tigripes,Female,f,Single,nan,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+220969,7.68,IFA_30_26_1186.wav,44100,17-02-20 0:00,mosquito,an leesoni,Female,f,Single,nan,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+220342,12.8,IFA_40_30_1590.wav,44100,16-03-20 0:00,mosquito,an squamosus,Female,f,Single,nan,LT,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+220346,2.56,IFA_40_31_1591.wav,44100,16-03-20 0:00,mosquito,an coustani,Female,f,Single,nan,LT,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+222212,43.52,IFA_67_34_2674.wav,44100,19-07-20 0:00,mosquito,an maculipalpis,Female,f,Single,nan,LT,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+219443,5.4,r2016-05-24_09.40.35.384.wav_u2016-05-24_12.45.24.671356.wav,8000,24-05-16 9:40,mosquito,an gambiae ss,Female,f,Single,3.0,nan,phone,Alcatel 4015X,Kenya,nan,Nairobi,USAMRU-K,culture
+2524,16.763.179,LSTMH telinga audio - edited and labelled.wav,44100,25-04-18 11:30,mosquito,toxorhynchites brevipalpis,Male,nan,Single,1.0,nan,telinga,olympus,UK,nan,nan,LSTMH Culture cages, London,culture
+2564,4.591.411,#1002-1011.wav,44100,01-07-18 12:00,mosquito,an harrisoni,Female,t,Single,nan,ABN,telinga,olympus,Thailand,Sai Yok District,Kanchanaburi Province,field site near Pu Teuy Village,cup
+2593,7.780.932,#1021-1039.wav,44100,01-07-18 12:00,mosquito,an maculatus,Female,t,Single,nan,ABN,telinga,olympus,Thailand,Sai Yok District,Kanchanaburi Province,field site near Pu Teuy Village,cup
+2686,11.980.243,#1115-1126.wav,44100,01-07-18 12:00,mosquito,an barbirostris,Female,t,Single,nan,ABN,telinga,olympus,Thailand,Sai Yok District,Kanchanaburi Province,field site near Pu Teuy Village,cup
+53,463.456,CDC_Ae-aegypti_labelled_800.wav,8000,08-09-16 8:00,mosquito,ae aegypti,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+110,815.149,CDC_Ae-albopictus_labelled_800.wav,8000,08-09-16 8:00,mosquito,ae albopictus,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+180,212.739,CDC_An-albimanus_labelled_800.wav,8000,08-09-16 8:00,mosquito,an albimanus,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+221,149.935,CDC_An-arabiensis_labelled_800.wav,8000,08-09-16 8:00,mosquito,an arabiensis,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+222,67.894,CDC_An-atroparvus_labelled_800.wav,8000,08-09-16 8:00,mosquito,an atroparvus,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+235,82.347,CDC_An-coluzzii_labelled_800.wav,8000,08-09-16 8:00,mosquito,an coluzzii,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+244,256.162,CDC_An-dirus_labelled_800.wav,8000,08-09-16 8:00,mosquito,an dirus,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+263,72.417,CDC_An-farauti_labelled_800.wav,8000,08-09-16 8:00,mosquito,an farauti,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+310,182.855,CDC_An-freeborni_labelled_800.wav,8000,08-09-16 8:00,mosquito,an freeborni,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+328,342.056,CDC_An-funestus_labelled_800.wav,8000,08-09-16 8:00,mosquito,an funestus,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+370,89.407,CDC_An-gambiae_labelled_800.wav,8000,08-09-16 8:00,mosquito,an gambiae,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+403,97.967,CDC_An-merus_labelled_800.wav,8000,08-09-16 8:00,mosquito,an merus,nan,nan,Plural,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+407,423.587,CDC_An-minimus_labelled_800.wav,8000,08-09-16 8:00,mosquito,an minimus,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+419,25.726,CDC_An-quadriannulatus_labelled_800.wav,8000,08-09-16 8:00,mosquito,an quadriannulatus,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+489,97.765,CDC_An-sinensis_labelled_800.wav,8000,08-09-16 8:00,mosquito,an sinensis,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+500,118.215,CDC_An-stephensi_labelled_800.wav,8000,08-09-16 8:00,mosquito,an stephensi,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+540,730.265,CDC_Cx-quinquefasciatus_labelled_800.wav,8000,08-09-16 8:00,mosquito,culex quinquefasciatus,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+551,187.678,CDC_Cx-tarsalis_labelled_800.wav,8000,08-09-16 8:00,mosquito,culex tarsalis,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+221103,2.56,IFA_17_24_664.wav,44100,30-01-20 0:00,mosquito,ma africanus,Female,f,Single,nan,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+221121,2.56,IFA_17_27_667.wav,44100,30-01-20 0:00,mosquito,ma uniformis,Female,f,Single,nan,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+221145,38.4,IFA_17_28_668.wav,44100,30-01-20 0:00,mosquito,culex pipiens complex,Female,f,Single,nan,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+221164,5.12,IFA_18_36_716.wav,44100,03-02-20 0:00,mosquito,an funestus ss,Female,t,Single,nan,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+220546,2.56,IFA_21_25_825.wav,44100,08-02-20 0:00,mosquito,an funestus sl,Female,f,Single,nan,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+220569,5.12,IFA_24_13_933.wav,44100,10-02-20 0:00,mosquito,an ziemanni,Female,f,Single,nan,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+220674,2.56,IFA_25_21_981.wav,44100,10-02-20 0:00,mosquito,an gambiae sl,Female,f,Single,nan,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+220818,12.8,IFA_28_12_1092.wav,44100,12-02-20 0:00,mosquito,culex tigripes,Female,f,Single,nan,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+220342,12.8,IFA_40_30_1590.wav,44100,16-03-20 0:00,mosquito,an squamosus,Female,f,Single,nan,LT,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+220346,2.56,IFA_40_31_1591.wav,44100,16-03-20 0:00,mosquito,an coustani,Female,f,Single,nan,LT,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+222212,43.52,IFA_67_34_2674.wav,44100,19-07-20 0:00,mosquito,an maculipalpis,Female,f,Single,nan,LT,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+219443,5.4,r2016-05-24_09.40.35.384.wav_u2016-05-24_12.45.24.671356.wav,8000,24-05-16 9:40,mosquito,an gambiae ss,Female,f,Single,3.0,nan,phone,Alcatel 4015X,Kenya,nan,Nairobi,USAMRU-K,culture
+2524,16.763.179,LSTMH telinga audio - edited and labelled.wav,44100,25-04-18 11:30,mosquito,toxorhynchites brevipalpis,Male,nan,Single,1.0,nan,telinga,olympus,UK,nan,nan,LSTMH Culture cages, London,culture
+2564,4.591.411,#1002-1011.wav,44100,01-07-18 12:00,mosquito,an harrisoni,Female,t,Single,nan,ABN,telinga,olympus,Thailand,Sai Yok District,Kanchanaburi Province,field site near Pu Teuy Village,cup
+2593,7.780.932,#1021-1039.wav,44100,01-07-18 12:00,mosquito,an maculatus,Female,t,Single,nan,ABN,telinga,olympus,Thailand,Sai Yok District,Kanchanaburi Province,field site near Pu Teuy Village,cup
+2686,11.980.243,#1115-1126.wav,44100,01-07-18 12:00,mosquito,an barbirostris,Female,t,Single,nan,ABN,telinga,olympus,Thailand,Sai Yok District,Kanchanaburi Province,field site near Pu Teuy Village,cup
+53,463.456,CDC_Ae-aegypti_labelled_800.wav,8000,08-09-16 8:00,mosquito,ae aegypti,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+110,815.149,CDC_Ae-albopictus_labelled_800.wav,8000,08-09-16 8:00,mosquito,ae albopictus,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+180,212.739,CDC_An-albimanus_labelled_800.wav,8000,08-09-16 8:00,mosquito,an albimanus,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+221,149.935,CDC_An-arabiensis_labelled_800.wav,8000,08-09-16 8:00,mosquito,an arabiensis,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+222,67.894,CDC_An-atroparvus_labelled_800.wav,8000,08-09-16 8:00,mosquito,an atroparvus,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+235,82.347,CDC_An-coluzzii_labelled_800.wav,8000,08-09-16 8:00,mosquito,an coluzzii,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+244,256.162,CDC_An-dirus_labelled_800.wav,8000,08-09-16 8:00,mosquito,an dirus,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+263,72.417,CDC_An-farauti_labelled_800.wav,8000,08-09-16 8:00,mosquito,an farauti,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+310,182.855,CDC_An-freeborni_labelled_800.wav,8000,08-09-16 8:00,mosquito,an freeborni,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+328,342.056,CDC_An-funestus_labelled_800.wav,8000,08-09-16 8:00,mosquito,an funestus,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+370,89.407,CDC_An-gambiae_labelled_800.wav,8000,08-09-16 8:00,mosquito,an gambiae,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+407,423.587,CDC_An-minimus_labelled_800.wav,8000,08-09-16 8:00,mosquito,an minimus,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+419,25.726,CDC_An-quadriannulatus_labelled_800.wav,8000,08-09-16 8:00,mosquito,an quadriannulatus,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+489,97.765,CDC_An-sinensis_labelled_800.wav,8000,08-09-16 8:00,mosquito,an sinensis,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+500,118.215,CDC_An-stephensi_labelled_800.wav,8000,08-09-16 8:00,mosquito,an stephensi,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+540,730.265,CDC_Cx-quinquefasciatus_labelled_800.wav,8000,08-09-16 8:00,mosquito,culex quinquefasciatus,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+551,187.678,CDC_Cx-tarsalis_labelled_800.wav,8000,08-09-16 8:00,mosquito,culex tarsalis,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+221103,2.56,IFA_17_24_664.wav,44100,30-01-20 0:00,mosquito,ma africanus,Female,f,Single,nan,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+221121,2.56,IFA_17_27_667.wav,44100,30-01-20 0:00,mosquito,ma uniformis,Female,f,Single,nan,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+221145,38.4,IFA_17_28_668.wav,44100,30-01-20 0:00,mosquito,culex pipiens complex,Female,f,Single,nan,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+221164,5.12,IFA_18_36_716.wav,44100,03-02-20 0:00,mosquito,an funestus ss,Female,t,Single,nan,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+220546,2.56,IFA_21_25_825.wav,44100,08-02-20 0:00,mosquito,an funestus sl,Female,f,Single,nan,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+220569,5.12,IFA_24_13_933.wav,44100,10-02-20 0:00,mosquito,an ziemanni,Female,f,Single,nan,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+220674,2.56,IFA_25_21_981.wav,44100,10-02-20 0:00,mosquito,an gambiae sl,Female,f,Single,nan,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+220818,12.8,IFA_28_12_1092.wav,44100,12-02-20 0:00,mosquito,culex tigripes,Female,f,Single,nan,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+220342,12.8,IFA_40_30_1590.wav,44100,16-03-20 0:00,mosquito,an squamosus,Female,f,Single,nan,LT,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+220346,2.56,IFA_40_31_1591.wav,44100,16-03-20 0:00,mosquito,an coustani,Female,f,Single,nan,LT,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+222212,43.52,IFA_67_34_2674.wav,44100,19-07-20 0:00,mosquito,an maculipalpis,Female,f,Single,nan,LT,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+219443,5.4,r2016-05-24_09.40.35.384.wav_u2016-05-24_12.45.24.671356.wav,8000,24-05-16 9:40,mosquito,an gambiae ss,Female,f,Single,3.0,nan,phone,Alcatel 4015X,Kenya,nan,Nairobi,USAMRU-K,culture
+2564,4.591.411,#1002-1011.wav,44100,01-07-18 12:00,mosquito,an harrisoni,Female,t,Single,nan,ABN,telinga,olympus,Thailand,Sai Yok District,Kanchanaburi Province,field site near Pu Teuy Village,cup
+2593,7.780.932,#1021-1039.wav,44100,01-07-18 12:00,mosquito,an maculatus,Female,t,Single,nan,ABN,telinga,olympus,Thailand,Sai Yok District,Kanchanaburi Province,field site near Pu Teuy Village,cup
+2686,11.980.243,#1115-1126.wav,44100,01-07-18 12:00,mosquito,an barbirostris,Female,t,Single,nan,ABN,telinga,olympus,Thailand,Sai Yok District,Kanchanaburi Province,field site near Pu Teuy Village,cup
+53,463.456,CDC_Ae-aegypti_labelled_800.wav,8000,08-09-16 8:00,mosquito,ae aegypti,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+110,815.149,CDC_Ae-albopictus_labelled_800.wav,8000,08-09-16 8:00,mosquito,ae albopictus,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+180,212.739,CDC_An-albimanus_labelled_800.wav,8000,08-09-16 8:00,mosquito,an albimanus,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+221,149.935,CDC_An-arabiensis_labelled_800.wav,8000,08-09-16 8:00,mosquito,an arabiensis,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+222,67.894,CDC_An-atroparvus_labelled_800.wav,8000,08-09-16 8:00,mosquito,an atroparvus,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+235,82.347,CDC_An-coluzzii_labelled_800.wav,8000,08-09-16 8:00,mosquito,an coluzzii,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+244,256.162,CDC_An-dirus_labelled_800.wav,8000,08-09-16 8:00,mosquito,an dirus,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+263,72.417,CDC_An-farauti_labelled_800.wav,8000,08-09-16 8:00,mosquito,an farauti,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+310,182.855,CDC_An-freeborni_labelled_800.wav,8000,08-09-16 8:00,mosquito,an freeborni,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+328,342.056,CDC_An-funestus_labelled_800.wav,8000,08-09-16 8:00,mosquito,an funestus,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+370,89.407,CDC_An-gambiae_labelled_800.wav,8000,08-09-16 8:00,mosquito,an gambiae,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+407,423.587,CDC_An-minimus_labelled_800.wav,8000,08-09-16 8:00,mosquito,an minimus,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+419,25.726,CDC_An-quadriannulatus_labelled_800.wav,8000,08-09-16 8:00,mosquito,an quadriannulatus,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+489,97.765,CDC_An-sinensis_labelled_800.wav,8000,08-09-16 8:00,mosquito,an sinensis,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+500,118.215,CDC_An-stephensi_labelled_800.wav,8000,08-09-16 8:00,mosquito,an stephensi,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+540,730.265,CDC_Cx-quinquefasciatus_labelled_800.wav,8000,08-09-16 8:00,mosquito,culex quinquefasciatus,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+551,187.678,CDC_Cx-tarsalis_labelled_800.wav,8000,08-09-16 8:00,mosquito,culex tarsalis,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+221103,2.56,IFA_17_24_664.wav,44100,30-01-20 0:00,mosquito,ma africanus,Female,f,Single,nan,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+221121,2.56,IFA_17_27_667.wav,44100,30-01-20 0:00,mosquito,ma uniformis,Female,f,Single,nan,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+221145,38.4,IFA_17_28_668.wav,44100,30-01-20 0:00,mosquito,culex pipiens complex,Female,f,Single,nan,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+221164,5.12,IFA_18_36_716.wav,44100,03-02-20 0:00,mosquito,an funestus ss,Female,t,Single,nan,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+220546,2.56,IFA_21_25_825.wav,44100,08-02-20 0:00,mosquito,an funestus sl,Female,f,Single,nan,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+220569,5.12,IFA_24_13_933.wav,44100,10-02-20 0:00,mosquito,an ziemanni,Female,f,Single,nan,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+220674,2.56,IFA_25_21_981.wav,44100,10-02-20 0:00,mosquito,an gambiae sl,Female,f,Single,nan,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+220818,12.8,IFA_28_12_1092.wav,44100,12-02-20 0:00,mosquito,culex tigripes,Female,f,Single,nan,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+220342,12.8,IFA_40_30_1590.wav,44100,16-03-20 0:00,mosquito,an squamosus,Female,f,Single,nan,LT,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+220346,2.56,IFA_40_31_1591.wav,44100,16-03-20 0:00,mosquito,an coustani,Female,f,Single,nan,LT,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+222212,43.52,IFA_67_34_2674.wav,44100,19-07-20 0:00,mosquito,an maculipalpis,Female,f,Single,nan,LT,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+219443,5.4,r2016-05-24_09.40.35.384.wav_u2016-05-24_12.45.24.671356.wav,8000,24-05-16 9:40,mosquito,an gambiae ss,Female,f,Single,3.0,nan,phone,Alcatel 4015X,Kenya,nan,Nairobi,USAMRU-K,culture
+2564,4.591.411,#1002-1011.wav,44100,01-07-18 12:00,mosquito,an harrisoni,Female,t,Single,nan,ABN,telinga,olympus,Thailand,Sai Yok District,Kanchanaburi Province,field site near Pu Teuy Village,cup
+2593,7.780.932,#1021-1039.wav,44100,01-07-18 12:00,mosquito,an maculatus,Female,t,Single,nan,ABN,telinga,olympus,Thailand,Sai Yok District,Kanchanaburi Province,field site near Pu Teuy Village,cup
+2686,11.980.243,#1115-1126.wav,44100,01-07-18 12:00,mosquito,an barbirostris,Female,t,Single,nan,ABN,telinga,olympus,Thailand,Sai Yok District,Kanchanaburi Province,field site near Pu Teuy Village,cup
+53,463.456,CDC_Ae-aegypti_labelled_800.wav,8000,08-09-16 8:00,mosquito,ae aegypti,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+110,815.149,CDC_Ae-albopictus_labelled_800.wav,8000,08-09-16 8:00,mosquito,ae albopictus,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+180,212.739,CDC_An-albimanus_labelled_800.wav,8000,08-09-16 8:00,mosquito,an albimanus,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+221,149.935,CDC_An-arabiensis_labelled_800.wav,8000,08-09-16 8:00,mosquito,an arabiensis,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+222,67.894,CDC_An-atroparvus_labelled_800.wav,8000,08-09-16 8:00,mosquito,an atroparvus,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+235,82.347,CDC_An-coluzzii_labelled_800.wav,8000,08-09-16 8:00,mosquito,an coluzzii,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+244,256.162,CDC_An-dirus_labelled_800.wav,8000,08-09-16 8:00,mosquito,an dirus,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+263,72.417,CDC_An-farauti_labelled_800.wav,8000,08-09-16 8:00,mosquito,an farauti,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+310,182.855,CDC_An-freeborni_labelled_800.wav,8000,08-09-16 8:00,mosquito,an freeborni,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+328,342.056,CDC_An-funestus_labelled_800.wav,8000,08-09-16 8:00,mosquito,an funestus,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+370,89.407,CDC_An-gambiae_labelled_800.wav,8000,08-09-16 8:00,mosquito,an gambiae,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+407,423.587,CDC_An-minimus_labelled_800.wav,8000,08-09-16 8:00,mosquito,an minimus,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+419,25.726,CDC_An-quadriannulatus_labelled_800.wav,8000,08-09-16 8:00,mosquito,an quadriannulatus,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+489,97.765,CDC_An-sinensis_labelled_800.wav,8000,08-09-16 8:00,mosquito,an sinensis,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+500,118.215,CDC_An-stephensi_labelled_800.wav,8000,08-09-16 8:00,mosquito,an stephensi,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+540,730.265,CDC_Cx-quinquefasciatus_labelled_800.wav,8000,08-09-16 8:00,mosquito,culex quinquefasciatus,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+551,187.678,CDC_Cx-tarsalis_labelled_800.wav,8000,08-09-16 8:00,mosquito,culex tarsalis,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+221103,2.56,IFA_17_24_664.wav,44100,30-01-20 0:00,mosquito,ma africanus,Female,f,Single,nan,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+221121,2.56,IFA_17_27_667.wav,44100,30-01-20 0:00,mosquito,ma uniformis,Female,f,Single,nan,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+221145,38.4,IFA_17_28_668.wav,44100,30-01-20 0:00,mosquito,culex pipiens complex,Female,f,Single,nan,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+221164,5.12,IFA_18_36_716.wav,44100,03-02-20 0:00,mosquito,an funestus ss,Female,t,Single,nan,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+220546,2.56,IFA_21_25_825.wav,44100,08-02-20 0:00,mosquito,an funestus sl,Female,f,Single,nan,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+220569,5.12,IFA_24_13_933.wav,44100,10-02-20 0:00,mosquito,an ziemanni,Female,f,Single,nan,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+220674,2.56,IFA_25_21_981.wav,44100,10-02-20 0:00,mosquito,an gambiae sl,Female,f,Single,nan,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+220818,12.8,IFA_28_12_1092.wav,44100,12-02-20 0:00,mosquito,culex tigripes,Female,f,Single,nan,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+220342,12.8,IFA_40_30_1590.wav,44100,16-03-20 0:00,mosquito,an squamosus,Female,f,Single,nan,LT,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+220346,2.56,IFA_40_31_1591.wav,44100,16-03-20 0:00,mosquito,an coustani,Female,f,Single,nan,LT,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+222212,43.52,IFA_67_34_2674.wav,44100,19-07-20 0:00,mosquito,an maculipalpis,Female,f,Single,nan,LT,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+219443,5.4,r2016-05-24_09.40.35.384.wav_u2016-05-24_12.45.24.671356.wav,8000,24-05-16 9:40,mosquito,an gambiae ss,Female,f,Single,3.0,nan,phone,Alcatel 4015X,Kenya,nan,Nairobi,USAMRU-K,culture
+2564,4.591.411,#1002-1011.wav,44100,01-07-18 12:00,mosquito,an harrisoni,Female,t,Single,nan,ABN,telinga,olympus,Thailand,Sai Yok District,Kanchanaburi Province,field site near Pu Teuy Village,cup
+2593,7.780.932,#1021-1039.wav,44100,01-07-18 12:00,mosquito,an maculatus,Female,t,Single,nan,ABN,telinga,olympus,Thailand,Sai Yok District,Kanchanaburi Province,field site near Pu Teuy Village,cup
+2686,11.980.243,#1115-1126.wav,44100,01-07-18 12:00,mosquito,an barbirostris,Female,t,Single,nan,ABN,telinga,olympus,Thailand,Sai Yok District,Kanchanaburi Province,field site near Pu Teuy Village,cup
+53,463.456,CDC_Ae-aegypti_labelled_800.wav,8000,08-09-16 8:00,mosquito,ae aegypti,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+110,815.149,CDC_Ae-albopictus_labelled_800.wav,8000,08-09-16 8:00,mosquito,ae albopictus,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+180,212.739,CDC_An-albimanus_labelled_800.wav,8000,08-09-16 8:00,mosquito,an albimanus,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+221,149.935,CDC_An-arabiensis_labelled_800.wav,8000,08-09-16 8:00,mosquito,an arabiensis,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+222,67.894,CDC_An-atroparvus_labelled_800.wav,8000,08-09-16 8:00,mosquito,an atroparvus,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+235,82.347,CDC_An-coluzzii_labelled_800.wav,8000,08-09-16 8:00,mosquito,an coluzzii,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+244,256.162,CDC_An-dirus_labelled_800.wav,8000,08-09-16 8:00,mosquito,an dirus,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+263,72.417,CDC_An-farauti_labelled_800.wav,8000,08-09-16 8:00,mosquito,an farauti,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+310,182.855,CDC_An-freeborni_labelled_800.wav,8000,08-09-16 8:00,mosquito,an freeborni,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+328,342.056,CDC_An-funestus_labelled_800.wav,8000,08-09-16 8:00,mosquito,an funestus,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+370,89.407,CDC_An-gambiae_labelled_800.wav,8000,08-09-16 8:00,mosquito,an gambiae,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+407,423.587,CDC_An-minimus_labelled_800.wav,8000,08-09-16 8:00,mosquito,an minimus,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+419,25.726,CDC_An-quadriannulatus_labelled_800.wav,8000,08-09-16 8:00,mosquito,an quadriannulatus,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+489,97.765,CDC_An-sinensis_labelled_800.wav,8000,08-09-16 8:00,mosquito,an sinensis,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+500,118.215,CDC_An-stephensi_labelled_800.wav,8000,08-09-16 8:00,mosquito,an stephensi,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+540,730.265,CDC_Cx-quinquefasciatus_labelled_800.wav,8000,08-09-16 8:00,mosquito,culex quinquefasciatus,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+551,187.678,CDC_Cx-tarsalis_labelled_800.wav,8000,08-09-16 8:00,mosquito,culex tarsalis,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+221103,2.56,IFA_17_24_664.wav,44100,30-01-20 0:00,mosquito,ma africanus,Female,f,Single,nan,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+221121,2.56,IFA_17_27_667.wav,44100,30-01-20 0:00,mosquito,ma uniformis,Female,f,Single,nan,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+221145,38.4,IFA_17_28_668.wav,44100,30-01-20 0:00,mosquito,culex pipiens complex,Female,f,Single,nan,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+221164,5.12,IFA_18_36_716.wav,44100,03-02-20 0:00,mosquito,an funestus ss,Female,t,Single,nan,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+220546,2.56,IFA_21_25_825.wav,44100,08-02-20 0:00,mosquito,an funestus sl,Female,f,Single,nan,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+220569,5.12,IFA_24_13_933.wav,44100,10-02-20 0:00,mosquito,an ziemanni,Female,f,Single,nan,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+220674,2.56,IFA_25_21_981.wav,44100,10-02-20 0:00,mosquito,an gambiae sl,Female,f,Single,nan,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+220818,12.8,IFA_28_12_1092.wav,44100,12-02-20 0:00,mosquito,culex tigripes,Female,f,Single,nan,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+220342,12.8,IFA_40_30_1590.wav,44100,16-03-20 0:00,mosquito,an squamosus,Female,f,Single,nan,LT,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+220346,2.56,IFA_40_31_1591.wav,44100,16-03-20 0:00,mosquito,an coustani,Female,f,Single,nan,LT,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+222212,43.52,IFA_67_34_2674.wav,44100,19-07-20 0:00,mosquito,an maculipalpis,Female,f,Single,nan,LT,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+219443,5.4,r2016-05-24_09.40.35.384.wav_u2016-05-24_12.45.24.671356.wav,8000,24-05-16 9:40,mosquito,an gambiae ss,Female,f,Single,3.0,nan,phone,Alcatel 4015X,Kenya,nan,Nairobi,USAMRU-K,culture
+2564,4.591.411,#1002-1011.wav,44100,01-07-18 12:00,mosquito,an harrisoni,Female,t,Single,nan,ABN,telinga,olympus,Thailand,Sai Yok District,Kanchanaburi Province,field site near Pu Teuy Village,cup
+2593,7.780.932,#1021-1039.wav,44100,01-07-18 12:00,mosquito,an maculatus,Female,t,Single,nan,ABN,telinga,olympus,Thailand,Sai Yok District,Kanchanaburi Province,field site near Pu Teuy Village,cup
+2686,11.980.243,#1115-1126.wav,44100,01-07-18 12:00,mosquito,an barbirostris,Female,t,Single,nan,ABN,telinga,olympus,Thailand,Sai Yok District,Kanchanaburi Province,field site near Pu Teuy Village,cup
+53,463.456,CDC_Ae-aegypti_labelled_800.wav,8000,08-09-16 8:00,mosquito,ae aegypti,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+110,815.149,CDC_Ae-albopictus_labelled_800.wav,8000,08-09-16 8:00,mosquito,ae albopictus,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+180,212.739,CDC_An-albimanus_labelled_800.wav,8000,08-09-16 8:00,mosquito,an albimanus,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+221,149.935,CDC_An-arabiensis_labelled_800.wav,8000,08-09-16 8:00,mosquito,an arabiensis,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+222,67.894,CDC_An-atroparvus_labelled_800.wav,8000,08-09-16 8:00,mosquito,an atroparvus,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+235,82.347,CDC_An-coluzzii_labelled_800.wav,8000,08-09-16 8:00,mosquito,an coluzzii,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+244,256.162,CDC_An-dirus_labelled_800.wav,8000,08-09-16 8:00,mosquito,an dirus,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+263,72.417,CDC_An-farauti_labelled_800.wav,8000,08-09-16 8:00,mosquito,an farauti,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+310,182.855,CDC_An-freeborni_labelled_800.wav,8000,08-09-16 8:00,mosquito,an freeborni,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+328,342.056,CDC_An-funestus_labelled_800.wav,8000,08-09-16 8:00,mosquito,an funestus,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+370,89.407,CDC_An-gambiae_labelled_800.wav,8000,08-09-16 8:00,mosquito,an gambiae,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+407,423.587,CDC_An-minimus_labelled_800.wav,8000,08-09-16 8:00,mosquito,an minimus,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+419,25.726,CDC_An-quadriannulatus_labelled_800.wav,8000,08-09-16 8:00,mosquito,an quadriannulatus,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+489,97.765,CDC_An-sinensis_labelled_800.wav,8000,08-09-16 8:00,mosquito,an sinensis,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+500,118.215,CDC_An-stephensi_labelled_800.wav,8000,08-09-16 8:00,mosquito,an stephensi,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+540,730.265,CDC_Cx-quinquefasciatus_labelled_800.wav,8000,08-09-16 8:00,mosquito,culex quinquefasciatus,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+551,187.678,CDC_Cx-tarsalis_labelled_800.wav,8000,08-09-16 8:00,mosquito,culex tarsalis,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+221103,2.56,IFA_17_24_664.wav,44100,30-01-20 0:00,mosquito,ma africanus,Female,f,Single,nan,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+221121,2.56,IFA_17_27_667.wav,44100,30-01-20 0:00,mosquito,ma uniformis,Female,f,Single,nan,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+221145,38.4,IFA_17_28_668.wav,44100,30-01-20 0:00,mosquito,culex pipiens complex,Female,f,Single,nan,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+221164,5.12,IFA_18_36_716.wav,44100,03-02-20 0:00,mosquito,an funestus ss,Female,t,Single,nan,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+220546,2.56,IFA_21_25_825.wav,44100,08-02-20 0:00,mosquito,an funestus sl,Female,f,Single,nan,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+220569,5.12,IFA_24_13_933.wav,44100,10-02-20 0:00,mosquito,an ziemanni,Female,f,Single,nan,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+220674,2.56,IFA_25_21_981.wav,44100,10-02-20 0:00,mosquito,an gambiae sl,Female,f,Single,nan,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+220818,12.8,IFA_28_12_1092.wav,44100,12-02-20 0:00,mosquito,culex tigripes,Female,f,Single,nan,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+220342,12.8,IFA_40_30_1590.wav,44100,16-03-20 0:00,mosquito,an squamosus,Female,f,Single,nan,LT,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+220346,2.56,IFA_40_31_1591.wav,44100,16-03-20 0:00,mosquito,an coustani,Female,f,Single,nan,LT,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+222212,43.52,IFA_67_34_2674.wav,44100,19-07-20 0:00,mosquito,an maculipalpis,Female,f,Single,nan,LT,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+219443,5.4,r2016-05-24_09.40.35.384.wav_u2016-05-24_12.45.24.671356.wav,8000,24-05-16 9:40,mosquito,an gambiae ss,Female,f,Single,3.0,nan,phone,Alcatel 4015X,Kenya,nan,Nairobi,USAMRU-K,culture
+2564,4.591.411,#1002-1011.wav,44100,01-07-18 12:00,mosquito,an harrisoni,Female,t,Single,nan,ABN,telinga,olympus,Thailand,Sai Yok District,Kanchanaburi Province,field site near Pu Teuy Village,cup
+2593,7.780.932,#1021-1039.wav,44100,01-07-18 12:00,mosquito,an maculatus,Female,t,Single,nan,ABN,telinga,olympus,Thailand,Sai Yok District,Kanchanaburi Province,field site near Pu Teuy Village,cup
+2686,11.980.243,#1115-1126.wav,44100,01-07-18 12:00,mosquito,an barbirostris,Female,t,Single,nan,ABN,telinga,olympus,Thailand,Sai Yok District,Kanchanaburi Province,field site near Pu Teuy Village,cup
+53,463.456,CDC_Ae-aegypti_labelled_800.wav,8000,08-09-16 8:00,mosquito,ae aegypti,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+110,815.149,CDC_Ae-albopictus_labelled_800.wav,8000,08-09-16 8:00,mosquito,ae albopictus,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+180,212.739,CDC_An-albimanus_labelled_800.wav,8000,08-09-16 8:00,mosquito,an albimanus,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+221,149.935,CDC_An-arabiensis_labelled_800.wav,8000,08-09-16 8:00,mosquito,an arabiensis,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+222,67.894,CDC_An-atroparvus_labelled_800.wav,8000,08-09-16 8:00,mosquito,an atroparvus,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+235,82.347,CDC_An-coluzzii_labelled_800.wav,8000,08-09-16 8:00,mosquito,an coluzzii,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+244,256.162,CDC_An-dirus_labelled_800.wav,8000,08-09-16 8:00,mosquito,an dirus,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+263,72.417,CDC_An-farauti_labelled_800.wav,8000,08-09-16 8:00,mosquito,an farauti,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+310,182.855,CDC_An-freeborni_labelled_800.wav,8000,08-09-16 8:00,mosquito,an freeborni,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+328,342.056,CDC_An-funestus_labelled_800.wav,8000,08-09-16 8:00,mosquito,an funestus,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+370,89.407,CDC_An-gambiae_labelled_800.wav,8000,08-09-16 8:00,mosquito,an gambiae,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+407,423.587,CDC_An-minimus_labelled_800.wav,8000,08-09-16 8:00,mosquito,an minimus,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+419,25.726,CDC_An-quadriannulatus_labelled_800.wav,8000,08-09-16 8:00,mosquito,an quadriannulatus,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+489,97.765,CDC_An-sinensis_labelled_800.wav,8000,08-09-16 8:00,mosquito,an sinensis,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+500,118.215,CDC_An-stephensi_labelled_800.wav,8000,08-09-16 8:00,mosquito,an stephensi,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+540,730.265,CDC_Cx-quinquefasciatus_labelled_800.wav,8000,08-09-16 8:00,mosquito,culex quinquefasciatus,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+551,187.678,CDC_Cx-tarsalis_labelled_800.wav,8000,08-09-16 8:00,mosquito,culex tarsalis,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+221103,2.56,IFA_17_24_664.wav,44100,30-01-20 0:00,mosquito,ma africanus,Female,f,Single,nan,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+221121,2.56,IFA_17_27_667.wav,44100,30-01-20 0:00,mosquito,ma uniformis,Female,f,Single,nan,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+221145,38.4,IFA_17_28_668.wav,44100,30-01-20 0:00,mosquito,culex pipiens complex,Female,f,Single,nan,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+221164,5.12,IFA_18_36_716.wav,44100,03-02-20 0:00,mosquito,an funestus ss,Female,t,Single,nan,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+220546,2.56,IFA_21_25_825.wav,44100,08-02-20 0:00,mosquito,an funestus sl,Female,f,Single,nan,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+220674,2.56,IFA_25_21_981.wav,44100,10-02-20 0:00,mosquito,an gambiae sl,Female,f,Single,nan,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+220818,12.8,IFA_28_12_1092.wav,44100,12-02-20 0:00,mosquito,culex tigripes,Female,f,Single,nan,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+220342,12.8,IFA_40_30_1590.wav,44100,16-03-20 0:00,mosquito,an squamosus,Female,f,Single,nan,LT,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+220346,2.56,IFA_40_31_1591.wav,44100,16-03-20 0:00,mosquito,an coustani,Female,f,Single,nan,LT,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+222212,43.52,IFA_67_34_2674.wav,44100,19-07-20 0:00,mosquito,an maculipalpis,Female,f,Single,nan,LT,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+219443,5.4,r2016-05-24_09.40.35.384.wav_u2016-05-24_12.45.24.671356.wav,8000,24-05-16 9:40,mosquito,an gambiae ss,Female,f,Single,3.0,nan,phone,Alcatel 4015X,Kenya,nan,Nairobi,USAMRU-K,culture
+2564,4.591.411,#1002-1011.wav,44100,01-07-18 12:00,mosquito,an harrisoni,Female,t,Single,nan,ABN,telinga,olympus,Thailand,Sai Yok District,Kanchanaburi Province,field site near Pu Teuy Village,cup
+2593,7.780.932,#1021-1039.wav,44100,01-07-18 12:00,mosquito,an maculatus,Female,t,Single,nan,ABN,telinga,olympus,Thailand,Sai Yok District,Kanchanaburi Province,field site near Pu Teuy Village,cup
+2686,11.980.243,#1115-1126.wav,44100,01-07-18 12:00,mosquito,an barbirostris,Female,t,Single,nan,ABN,telinga,olympus,Thailand,Sai Yok District,Kanchanaburi Province,field site near Pu Teuy Village,cup
+53,463.456,CDC_Ae-aegypti_labelled_800.wav,8000,08-09-16 8:00,mosquito,ae aegypti,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+110,815.149,CDC_Ae-albopictus_labelled_800.wav,8000,08-09-16 8:00,mosquito,ae albopictus,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+180,212.739,CDC_An-albimanus_labelled_800.wav,8000,08-09-16 8:00,mosquito,an albimanus,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+221,149.935,CDC_An-arabiensis_labelled_800.wav,8000,08-09-16 8:00,mosquito,an arabiensis,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+222,67.894,CDC_An-atroparvus_labelled_800.wav,8000,08-09-16 8:00,mosquito,an atroparvus,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+235,82.347,CDC_An-coluzzii_labelled_800.wav,8000,08-09-16 8:00,mosquito,an coluzzii,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+244,256.162,CDC_An-dirus_labelled_800.wav,8000,08-09-16 8:00,mosquito,an dirus,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+263,72.417,CDC_An-farauti_labelled_800.wav,8000,08-09-16 8:00,mosquito,an farauti,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+310,182.855,CDC_An-freeborni_labelled_800.wav,8000,08-09-16 8:00,mosquito,an freeborni,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+328,342.056,CDC_An-funestus_labelled_800.wav,8000,08-09-16 8:00,mosquito,an funestus,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+370,89.407,CDC_An-gambiae_labelled_800.wav,8000,08-09-16 8:00,mosquito,an gambiae,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+407,423.587,CDC_An-minimus_labelled_800.wav,8000,08-09-16 8:00,mosquito,an minimus,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+419,25.726,CDC_An-quadriannulatus_labelled_800.wav,8000,08-09-16 8:00,mosquito,an quadriannulatus,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+489,97.765,CDC_An-sinensis_labelled_800.wav,8000,08-09-16 8:00,mosquito,an sinensis,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+500,118.215,CDC_An-stephensi_labelled_800.wav,8000,08-09-16 8:00,mosquito,an stephensi,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+540,730.265,CDC_Cx-quinquefasciatus_labelled_800.wav,8000,08-09-16 8:00,mosquito,culex quinquefasciatus,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+551,187.678,CDC_Cx-tarsalis_labelled_800.wav,8000,08-09-16 8:00,mosquito,culex tarsalis,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+221103,2.56,IFA_17_24_664.wav,44100,30-01-20 0:00,mosquito,ma africanus,Female,f,Single,nan,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+221121,2.56,IFA_17_27_667.wav,44100,30-01-20 0:00,mosquito,ma uniformis,Female,f,Single,nan,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+221145,38.4,IFA_17_28_668.wav,44100,30-01-20 0:00,mosquito,culex pipiens complex,Female,f,Single,nan,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+221164,5.12,IFA_18_36_716.wav,44100,03-02-20 0:00,mosquito,an funestus ss,Female,t,Single,nan,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+220546,2.56,IFA_21_25_825.wav,44100,08-02-20 0:00,mosquito,an funestus sl,Female,f,Single,nan,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+220674,2.56,IFA_25_21_981.wav,44100,10-02-20 0:00,mosquito,an gambiae sl,Female,f,Single,nan,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+220818,12.8,IFA_28_12_1092.wav,44100,12-02-20 0:00,mosquito,culex tigripes,Female,f,Single,nan,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+220342,12.8,IFA_40_30_1590.wav,44100,16-03-20 0:00,mosquito,an squamosus,Female,f,Single,nan,LT,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+220346,2.56,IFA_40_31_1591.wav,44100,16-03-20 0:00,mosquito,an coustani,Female,f,Single,nan,LT,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+222212,43.52,IFA_67_34_2674.wav,44100,19-07-20 0:00,mosquito,an maculipalpis,Female,f,Single,nan,LT,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+219443,5.4,r2016-05-24_09.40.35.384.wav_u2016-05-24_12.45.24.671356.wav,8000,24-05-16 9:40,mosquito,an gambiae ss,Female,f,Single,3.0,nan,phone,Alcatel 4015X,Kenya,nan,Nairobi,USAMRU-K,culture
+2564,4.591.411,#1002-1011.wav,44100,01-07-18 12:00,mosquito,an harrisoni,Female,t,Single,nan,ABN,telinga,olympus,Thailand,Sai Yok District,Kanchanaburi Province,field site near Pu Teuy Village,cup
+2593,7.780.932,#1021-1039.wav,44100,01-07-18 12:00,mosquito,an maculatus,Female,t,Single,nan,ABN,telinga,olympus,Thailand,Sai Yok District,Kanchanaburi Province,field site near Pu Teuy Village,cup
+53,463.456,CDC_Ae-aegypti_labelled_800.wav,8000,08-09-16 8:00,mosquito,ae aegypti,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+110,815.149,CDC_Ae-albopictus_labelled_800.wav,8000,08-09-16 8:00,mosquito,ae albopictus,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+180,212.739,CDC_An-albimanus_labelled_800.wav,8000,08-09-16 8:00,mosquito,an albimanus,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+221,149.935,CDC_An-arabiensis_labelled_800.wav,8000,08-09-16 8:00,mosquito,an arabiensis,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+222,67.894,CDC_An-atroparvus_labelled_800.wav,8000,08-09-16 8:00,mosquito,an atroparvus,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+235,82.347,CDC_An-coluzzii_labelled_800.wav,8000,08-09-16 8:00,mosquito,an coluzzii,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+244,256.162,CDC_An-dirus_labelled_800.wav,8000,08-09-16 8:00,mosquito,an dirus,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+263,72.417,CDC_An-farauti_labelled_800.wav,8000,08-09-16 8:00,mosquito,an farauti,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+310,182.855,CDC_An-freeborni_labelled_800.wav,8000,08-09-16 8:00,mosquito,an freeborni,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+328,342.056,CDC_An-funestus_labelled_800.wav,8000,08-09-16 8:00,mosquito,an funestus,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+370,89.407,CDC_An-gambiae_labelled_800.wav,8000,08-09-16 8:00,mosquito,an gambiae,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+407,423.587,CDC_An-minimus_labelled_800.wav,8000,08-09-16 8:00,mosquito,an minimus,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+419,25.726,CDC_An-quadriannulatus_labelled_800.wav,8000,08-09-16 8:00,mosquito,an quadriannulatus,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+500,118.215,CDC_An-stephensi_labelled_800.wav,8000,08-09-16 8:00,mosquito,an stephensi,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+540,730.265,CDC_Cx-quinquefasciatus_labelled_800.wav,8000,08-09-16 8:00,mosquito,culex quinquefasciatus,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+551,187.678,CDC_Cx-tarsalis_labelled_800.wav,8000,08-09-16 8:00,mosquito,culex tarsalis,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+221103,2.56,IFA_17_24_664.wav,44100,30-01-20 0:00,mosquito,ma africanus,Female,f,Single,nan,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+221121,2.56,IFA_17_27_667.wav,44100,30-01-20 0:00,mosquito,ma uniformis,Female,f,Single,nan,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+221145,38.4,IFA_17_28_668.wav,44100,30-01-20 0:00,mosquito,culex pipiens complex,Female,f,Single,nan,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+221164,5.12,IFA_18_36_716.wav,44100,03-02-20 0:00,mosquito,an funestus ss,Female,t,Single,nan,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+220546,2.56,IFA_21_25_825.wav,44100,08-02-20 0:00,mosquito,an funestus sl,Female,f,Single,nan,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+220674,2.56,IFA_25_21_981.wav,44100,10-02-20 0:00,mosquito,an gambiae sl,Female,f,Single,nan,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+220818,12.8,IFA_28_12_1092.wav,44100,12-02-20 0:00,mosquito,culex tigripes,Female,f,Single,nan,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+220342,12.8,IFA_40_30_1590.wav,44100,16-03-20 0:00,mosquito,an squamosus,Female,f,Single,nan,LT,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+220346,2.56,IFA_40_31_1591.wav,44100,16-03-20 0:00,mosquito,an coustani,Female,f,Single,nan,LT,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+222212,43.52,IFA_67_34_2674.wav,44100,19-07-20 0:00,mosquito,an maculipalpis,Female,f,Single,nan,LT,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+219443,5.4,r2016-05-24_09.40.35.384.wav_u2016-05-24_12.45.24.671356.wav,8000,24-05-16 9:40,mosquito,an gambiae ss,Female,f,Single,3.0,nan,phone,Alcatel 4015X,Kenya,nan,Nairobi,USAMRU-K,culture
+2564,4.591.411,#1002-1011.wav,44100,01-07-18 12:00,mosquito,an harrisoni,Female,t,Single,nan,ABN,telinga,olympus,Thailand,Sai Yok District,Kanchanaburi Province,field site near Pu Teuy Village,cup
+2593,7.780.932,#1021-1039.wav,44100,01-07-18 12:00,mosquito,an maculatus,Female,t,Single,nan,ABN,telinga,olympus,Thailand,Sai Yok District,Kanchanaburi Province,field site near Pu Teuy Village,cup
+53,463.456,CDC_Ae-aegypti_labelled_800.wav,8000,08-09-16 8:00,mosquito,ae aegypti,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+110,815.149,CDC_Ae-albopictus_labelled_800.wav,8000,08-09-16 8:00,mosquito,ae albopictus,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+180,212.739,CDC_An-albimanus_labelled_800.wav,8000,08-09-16 8:00,mosquito,an albimanus,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+221,149.935,CDC_An-arabiensis_labelled_800.wav,8000,08-09-16 8:00,mosquito,an arabiensis,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+222,67.894,CDC_An-atroparvus_labelled_800.wav,8000,08-09-16 8:00,mosquito,an atroparvus,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+235,82.347,CDC_An-coluzzii_labelled_800.wav,8000,08-09-16 8:00,mosquito,an coluzzii,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+244,256.162,CDC_An-dirus_labelled_800.wav,8000,08-09-16 8:00,mosquito,an dirus,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+263,72.417,CDC_An-farauti_labelled_800.wav,8000,08-09-16 8:00,mosquito,an farauti,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+310,182.855,CDC_An-freeborni_labelled_800.wav,8000,08-09-16 8:00,mosquito,an freeborni,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+328,342.056,CDC_An-funestus_labelled_800.wav,8000,08-09-16 8:00,mosquito,an funestus,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+370,89.407,CDC_An-gambiae_labelled_800.wav,8000,08-09-16 8:00,mosquito,an gambiae,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+407,423.587,CDC_An-minimus_labelled_800.wav,8000,08-09-16 8:00,mosquito,an minimus,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+419,25.726,CDC_An-quadriannulatus_labelled_800.wav,8000,08-09-16 8:00,mosquito,an quadriannulatus,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+500,118.215,CDC_An-stephensi_labelled_800.wav,8000,08-09-16 8:00,mosquito,an stephensi,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+540,730.265,CDC_Cx-quinquefasciatus_labelled_800.wav,8000,08-09-16 8:00,mosquito,culex quinquefasciatus,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+551,187.678,CDC_Cx-tarsalis_labelled_800.wav,8000,08-09-16 8:00,mosquito,culex tarsalis,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+221103,2.56,IFA_17_24_664.wav,44100,30-01-20 0:00,mosquito,ma africanus,Female,f,Single,nan,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+221121,2.56,IFA_17_27_667.wav,44100,30-01-20 0:00,mosquito,ma uniformis,Female,f,Single,nan,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+221145,38.4,IFA_17_28_668.wav,44100,30-01-20 0:00,mosquito,culex pipiens complex,Female,f,Single,nan,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+221164,5.12,IFA_18_36_716.wav,44100,03-02-20 0:00,mosquito,an funestus ss,Female,t,Single,nan,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+220546,2.56,IFA_21_25_825.wav,44100,08-02-20 0:00,mosquito,an funestus sl,Female,f,Single,nan,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+220674,2.56,IFA_25_21_981.wav,44100,10-02-20 0:00,mosquito,an gambiae sl,Female,f,Single,nan,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+220818,12.8,IFA_28_12_1092.wav,44100,12-02-20 0:00,mosquito,culex tigripes,Female,f,Single,nan,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+220342,12.8,IFA_40_30_1590.wav,44100,16-03-20 0:00,mosquito,an squamosus,Female,f,Single,nan,LT,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+220346,2.56,IFA_40_31_1591.wav,44100,16-03-20 0:00,mosquito,an coustani,Female,f,Single,nan,LT,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+222212,43.52,IFA_67_34_2674.wav,44100,19-07-20 0:00,mosquito,an maculipalpis,Female,f,Single,nan,LT,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+219443,5.4,r2016-05-24_09.40.35.384.wav_u2016-05-24_12.45.24.671356.wav,8000,24-05-16 9:40,mosquito,an gambiae ss,Female,f,Single,3.0,nan,phone,Alcatel 4015X,Kenya,nan,Nairobi,USAMRU-K,culture
+2564,4.591.411,#1002-1011.wav,44100,01-07-18 12:00,mosquito,an harrisoni,Female,t,Single,nan,ABN,telinga,olympus,Thailand,Sai Yok District,Kanchanaburi Province,field site near Pu Teuy Village,cup
+2593,7.780.932,#1021-1039.wav,44100,01-07-18 12:00,mosquito,an maculatus,Female,t,Single,nan,ABN,telinga,olympus,Thailand,Sai Yok District,Kanchanaburi Province,field site near Pu Teuy Village,cup
+53,463.456,CDC_Ae-aegypti_labelled_800.wav,8000,08-09-16 8:00,mosquito,ae aegypti,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+110,815.149,CDC_Ae-albopictus_labelled_800.wav,8000,08-09-16 8:00,mosquito,ae albopictus,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+180,212.739,CDC_An-albimanus_labelled_800.wav,8000,08-09-16 8:00,mosquito,an albimanus,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+221,149.935,CDC_An-arabiensis_labelled_800.wav,8000,08-09-16 8:00,mosquito,an arabiensis,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+235,82.347,CDC_An-coluzzii_labelled_800.wav,8000,08-09-16 8:00,mosquito,an coluzzii,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+244,256.162,CDC_An-dirus_labelled_800.wav,8000,08-09-16 8:00,mosquito,an dirus,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+310,182.855,CDC_An-freeborni_labelled_800.wav,8000,08-09-16 8:00,mosquito,an freeborni,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+328,342.056,CDC_An-funestus_labelled_800.wav,8000,08-09-16 8:00,mosquito,an funestus,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+370,89.407,CDC_An-gambiae_labelled_800.wav,8000,08-09-16 8:00,mosquito,an gambiae,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+407,423.587,CDC_An-minimus_labelled_800.wav,8000,08-09-16 8:00,mosquito,an minimus,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+419,25.726,CDC_An-quadriannulatus_labelled_800.wav,8000,08-09-16 8:00,mosquito,an quadriannulatus,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+500,118.215,CDC_An-stephensi_labelled_800.wav,8000,08-09-16 8:00,mosquito,an stephensi,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+540,730.265,CDC_Cx-quinquefasciatus_labelled_800.wav,8000,08-09-16 8:00,mosquito,culex quinquefasciatus,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+551,187.678,CDC_Cx-tarsalis_labelled_800.wav,8000,08-09-16 8:00,mosquito,culex tarsalis,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+221103,2.56,IFA_17_24_664.wav,44100,30-01-20 0:00,mosquito,ma africanus,Female,f,Single,nan,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+221121,2.56,IFA_17_27_667.wav,44100,30-01-20 0:00,mosquito,ma uniformis,Female,f,Single,nan,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+221145,38.4,IFA_17_28_668.wav,44100,30-01-20 0:00,mosquito,culex pipiens complex,Female,f,Single,nan,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+221164,5.12,IFA_18_36_716.wav,44100,03-02-20 0:00,mosquito,an funestus ss,Female,t,Single,nan,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+220546,2.56,IFA_21_25_825.wav,44100,08-02-20 0:00,mosquito,an funestus sl,Female,f,Single,nan,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+220674,2.56,IFA_25_21_981.wav,44100,10-02-20 0:00,mosquito,an gambiae sl,Female,f,Single,nan,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+220818,12.8,IFA_28_12_1092.wav,44100,12-02-20 0:00,mosquito,culex tigripes,Female,f,Single,nan,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+220342,12.8,IFA_40_30_1590.wav,44100,16-03-20 0:00,mosquito,an squamosus,Female,f,Single,nan,LT,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+220346,2.56,IFA_40_31_1591.wav,44100,16-03-20 0:00,mosquito,an coustani,Female,f,Single,nan,LT,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+222212,43.52,IFA_67_34_2674.wav,44100,19-07-20 0:00,mosquito,an maculipalpis,Female,f,Single,nan,LT,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+219443,5.4,r2016-05-24_09.40.35.384.wav_u2016-05-24_12.45.24.671356.wav,8000,24-05-16 9:40,mosquito,an gambiae ss,Female,f,Single,3.0,nan,phone,Alcatel 4015X,Kenya,nan,Nairobi,USAMRU-K,culture
+2564,4.591.411,#1002-1011.wav,44100,01-07-18 12:00,mosquito,an harrisoni,Female,t,Single,nan,ABN,telinga,olympus,Thailand,Sai Yok District,Kanchanaburi Province,field site near Pu Teuy Village,cup
+2593,7.780.932,#1021-1039.wav,44100,01-07-18 12:00,mosquito,an maculatus,Female,t,Single,nan,ABN,telinga,olympus,Thailand,Sai Yok District,Kanchanaburi Province,field site near Pu Teuy Village,cup
+53,463.456,CDC_Ae-aegypti_labelled_800.wav,8000,08-09-16 8:00,mosquito,ae aegypti,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+110,815.149,CDC_Ae-albopictus_labelled_800.wav,8000,08-09-16 8:00,mosquito,ae albopictus,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+180,212.739,CDC_An-albimanus_labelled_800.wav,8000,08-09-16 8:00,mosquito,an albimanus,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+221,149.935,CDC_An-arabiensis_labelled_800.wav,8000,08-09-16 8:00,mosquito,an arabiensis,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+244,256.162,CDC_An-dirus_labelled_800.wav,8000,08-09-16 8:00,mosquito,an dirus,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+310,182.855,CDC_An-freeborni_labelled_800.wav,8000,08-09-16 8:00,mosquito,an freeborni,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+328,342.056,CDC_An-funestus_labelled_800.wav,8000,08-09-16 8:00,mosquito,an funestus,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+370,89.407,CDC_An-gambiae_labelled_800.wav,8000,08-09-16 8:00,mosquito,an gambiae,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+407,423.587,CDC_An-minimus_labelled_800.wav,8000,08-09-16 8:00,mosquito,an minimus,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+419,25.726,CDC_An-quadriannulatus_labelled_800.wav,8000,08-09-16 8:00,mosquito,an quadriannulatus,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+500,118.215,CDC_An-stephensi_labelled_800.wav,8000,08-09-16 8:00,mosquito,an stephensi,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+540,730.265,CDC_Cx-quinquefasciatus_labelled_800.wav,8000,08-09-16 8:00,mosquito,culex quinquefasciatus,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+551,187.678,CDC_Cx-tarsalis_labelled_800.wav,8000,08-09-16 8:00,mosquito,culex tarsalis,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+221103,2.56,IFA_17_24_664.wav,44100,30-01-20 0:00,mosquito,ma africanus,Female,f,Single,nan,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+221121,2.56,IFA_17_27_667.wav,44100,30-01-20 0:00,mosquito,ma uniformis,Female,f,Single,nan,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+221145,38.4,IFA_17_28_668.wav,44100,30-01-20 0:00,mosquito,culex pipiens complex,Female,f,Single,nan,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+221164,5.12,IFA_18_36_716.wav,44100,03-02-20 0:00,mosquito,an funestus ss,Female,t,Single,nan,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+220546,2.56,IFA_21_25_825.wav,44100,08-02-20 0:00,mosquito,an funestus sl,Female,f,Single,nan,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+220674,2.56,IFA_25_21_981.wav,44100,10-02-20 0:00,mosquito,an gambiae sl,Female,f,Single,nan,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+220818,12.8,IFA_28_12_1092.wav,44100,12-02-20 0:00,mosquito,culex tigripes,Female,f,Single,nan,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+220342,12.8,IFA_40_30_1590.wav,44100,16-03-20 0:00,mosquito,an squamosus,Female,f,Single,nan,LT,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+220346,2.56,IFA_40_31_1591.wav,44100,16-03-20 0:00,mosquito,an coustani,Female,f,Single,nan,LT,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+222212,43.52,IFA_67_34_2674.wav,44100,19-07-20 0:00,mosquito,an maculipalpis,Female,f,Single,nan,LT,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+219443,5.4,r2016-05-24_09.40.35.384.wav_u2016-05-24_12.45.24.671356.wav,8000,24-05-16 9:40,mosquito,an gambiae ss,Female,f,Single,3.0,nan,phone,Alcatel 4015X,Kenya,nan,Nairobi,USAMRU-K,culture
+2564,4.591.411,#1002-1011.wav,44100,01-07-18 12:00,mosquito,an harrisoni,Female,t,Single,nan,ABN,telinga,olympus,Thailand,Sai Yok District,Kanchanaburi Province,field site near Pu Teuy Village,cup
+2593,7.780.932,#1021-1039.wav,44100,01-07-18 12:00,mosquito,an maculatus,Female,t,Single,nan,ABN,telinga,olympus,Thailand,Sai Yok District,Kanchanaburi Province,field site near Pu Teuy Village,cup
+53,463.456,CDC_Ae-aegypti_labelled_800.wav,8000,08-09-16 8:00,mosquito,ae aegypti,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+110,815.149,CDC_Ae-albopictus_labelled_800.wav,8000,08-09-16 8:00,mosquito,ae albopictus,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+180,212.739,CDC_An-albimanus_labelled_800.wav,8000,08-09-16 8:00,mosquito,an albimanus,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+221,149.935,CDC_An-arabiensis_labelled_800.wav,8000,08-09-16 8:00,mosquito,an arabiensis,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+244,256.162,CDC_An-dirus_labelled_800.wav,8000,08-09-16 8:00,mosquito,an dirus,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+310,182.855,CDC_An-freeborni_labelled_800.wav,8000,08-09-16 8:00,mosquito,an freeborni,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+328,342.056,CDC_An-funestus_labelled_800.wav,8000,08-09-16 8:00,mosquito,an funestus,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+370,89.407,CDC_An-gambiae_labelled_800.wav,8000,08-09-16 8:00,mosquito,an gambiae,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+407,423.587,CDC_An-minimus_labelled_800.wav,8000,08-09-16 8:00,mosquito,an minimus,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+419,25.726,CDC_An-quadriannulatus_labelled_800.wav,8000,08-09-16 8:00,mosquito,an quadriannulatus,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+500,118.215,CDC_An-stephensi_labelled_800.wav,8000,08-09-16 8:00,mosquito,an stephensi,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+540,730.265,CDC_Cx-quinquefasciatus_labelled_800.wav,8000,08-09-16 8:00,mosquito,culex quinquefasciatus,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+551,187.678,CDC_Cx-tarsalis_labelled_800.wav,8000,08-09-16 8:00,mosquito,culex tarsalis,nan,nan,Single,nan,nan,phone,Alcatel 4009X,USA,Georgia,Atlanta,CDC insect cultures, Atlanta,culture
+221103,2.56,IFA_17_24_664.wav,44100,30-01-20 0:00,mosquito,ma africanus,Female,f,Single,nan,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+221121,2.56,IFA_17_27_667.wav,44100,30-01-20 0:00,mosquito,ma uniformis,Female,f,Single,nan,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+221145,38.4,IFA_17_28_668.wav,44100,30-01-20 0:00,mosquito,culex pipiens complex,Female,f,Single,nan,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+221164,5.12,IFA_18_36_716.wav,44100,03-02-20 0:00,mosquito,an funestus ss,Female,t,Single,nan,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+220546,2.56,IFA_21_25_825.wav,44100,08-02-20 0:00,mosquito,an funestus sl,Female,f,Single,nan,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+220674,2.56,IFA_25_21_981.wav,44100,10-02-20 0:00,mosquito,an gambiae sl,Female,f,Single,nan,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+220818,12.8,IFA_28_12_1092.wav,44100,12-02-20 0:00,mosquito,culex tigripes,Female,f,Single,nan,HBN,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+220342,12.8,IFA_40_30_1590.wav,44100,16-03-20 0:00,mosquito,an squamosus,Female,f,Single,nan,LT,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+220346,2.56,IFA_40_31_1591.wav,44100,16-03-20 0:00,mosquito,an coustani,Female,f,Single,nan,LT,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
+222212,43.52,IFA_67_34_2674.wav,44100,19-07-20 0:00,mosquito,an maculipalpis,Female,f,Single,nan,LT,telinga,tascam,Tanzania,Kilombero District,Morogoro,Ifakara,cup
