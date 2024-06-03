@@ -19,6 +19,7 @@ import concurrent.futures
 from scipy.io import wavfile
 import time
 import json
+import librosa
 
 # Function to read CSV data
 def read_csv(file_path):
@@ -37,7 +38,7 @@ def match_audio_files(csv_data, audio_dir):
             id_to_audio[row['id']] = audio_file
     return id_to_audio
 
-def compare_audio(new_audio_path, existing_audios, posisi, method='mfcc'):
+def compare_audio(new_audio_path, existing_audios, method='mfcc'):
     if not os.path.exists(new_audio_path):
         return False, False, False
 
@@ -59,28 +60,14 @@ def compare_audio(new_audio_path, existing_audios, posisi, method='mfcc'):
     with concurrent.futures.ThreadPoolExecutor() as executor:
         similarity_results = list(executor.map(lambda x: calculate_similarity(*x), existing_audios.items()))
 
-    if posisi == 1:
-        print("posisi 1 ni:",posisi)
-        for id_, similarity in similarity_results:
-            print("cek id:",id_,"Nilai:",similarity)
-            if similarity == 0.0:
-                min_distance = similarity
-                closest_match_id = id_
-                break
-            elif similarity < min_distance:
-                min_distance = similarity
-                closest_match_id = id_
-    elif posisi == 2:
-        print("posisi 2 a:",posisi)
-        for id_, similarity in similarity_results:
-            print("cek id:",id_,"Nilai:",similarity)
-            if similarity == 0.0:
-                min_distance = similarity
-                closest_match_id = id_
-                break
-            elif (60.63509635406955 <= similarity <= 60.71316432259745) and similarity != 60.697101886782626:
-                min_distance = similarity
-                closest_match_id = id_
+    for id_, similarity in similarity_results:
+        if similarity == 0.0:
+            closest_match_id = id_
+            break
+        elif similarity < min_distance:
+            min_distance = similarity
+            closest_match_id = id_
+
     return closest_match_id, min_distance, new_audio, new_sr
 
 
@@ -137,15 +124,10 @@ def find_data_for_species(file_path, species_name):
 def processDetect(unique_filename):
     start_time = time.time()
 
-    # CSV file location and audio directory lokal
-    # csv_file = r"E:\KERJA\spudniklab\InsectoscopeProjectApiLokalDisk\data\metadata\data.csv"
-    # csv_dangerous_species = r"E:\KERJA\spudniklab\InsectoscopeProjectApiLokalDisk\data\metadata\dangerous_species.csv"
-    # audio_dir = r"E:\KERJA\spudniklab\InsectoscopeProjectApiLokalDisk\data\audionew"
-
-    # CSV file location and audio directory live
-    csv_file = os.path.join(os.path.dirname(__file__), 'data', 'metadata', 'data.csv')
-    csv_dangerous_species = os.path.join(os.path.dirname(__file__), 'data', 'metadata', 'dangerous_species.csv')
-    audio_dir = os.path.join(os.path.dirname(__file__), 'data', 'audio')
+    # CSV file location and audio directory
+    csv_file = r"E:\KERJA\spudniklab\InsecstopProjeck\data\metadata\data.csv"
+    csv_dangerous_species = r"E:\KERJA\spudniklab\InsecstopProjeck\data\metadata\dangerous_species.csv"
+    audio_dir = r"E:\KERJA\spudniklab\InsecstopProjeck\data\audio"
 
     # Read data from CSV
     csv_data = read_csv(csv_file)
@@ -158,24 +140,18 @@ def processDetect(unique_filename):
         audio_data = {id_: load_audio(audio_file) for id_, audio_file in id_to_audio.items()}
 
     # Example of new audio
-    # new_audio_path = os.path.join(r"E:\KERJA\spudniklab\InsectoscopeProjectApiLokalDisk\upload", unique_filename)
-    upload_folder = os.path.join(os.path.dirname(__file__), 'upload')
-    new_audio_path = os.path.join(upload_folder, unique_filename)
+    new_audio_path = os.path.join(r"E:\KERJA\spudniklab\InsecstopProjeck\upload", unique_filename)
 
     #check sound tyep
     checkSoundtype = classify_sound(new_audio_path)
 
     if checkSoundtype == "Audio":
         return json.dumps({"speciesName": "", "similarityValue": 0, "check_dangerous": "", "status": "Sound Type:Audio"})
-
+    
     # Compare new audio with existing audio
-    closest_match_id,similarity,new_audio, new_sr = compare_audio(new_audio_path, audio_data,posisi=1)
+    closest_match_id,similarity,new_audio, new_sr = compare_audio(new_audio_path, audio_data)
 
     print("Similarity value:",similarity)
-    
-    if similarity > 20:
-        closest_match_id,similarity,new_audio, new_sr = compare_audio(new_audio_path, audio_data,posisi=2)
-    
     if closest_match_id is False:
         return json.dumps({"speciesName": "", "similarityValue": 0, "check_dangerous": "", "status": "file not found"})
 
@@ -191,16 +167,14 @@ def processDetect(unique_filename):
 
         if similarity == 0.0:
             precentageSimilarity = 100
-
-        elif similarity < 10:
-            precentageSimilarity = 100
         else:
             precentageSimilarity = round(similarity)+30
 
         if precentageSimilarity > 100:
             precentageSimilarity = 100
-            # return json.dumps({"speciesName": "", "similarityValue": 0, "check_dangerous": "", "status": "Species not found"})
-
+        elif precentageSimilarity < 40:
+            return json.dumps({"speciesName": "", "similarityValue": 0, "check_dangerous": "", "status": "Species not found"})
+            
         print("Percentage Similarity value:",precentageSimilarity)
 
         if check_dangerous:
