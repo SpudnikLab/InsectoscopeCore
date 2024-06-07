@@ -65,10 +65,12 @@ def compare_audio(new_audio_path, existing_audios, posisi, method='mfcc'):
             if similarity == 0.0:
                 min_distance = similarity
                 closest_match_id = id_
+                print("== 00:",closest_match_id, "id:",id_)
                 break
             elif similarity < min_distance:
                 min_distance = similarity
                 closest_match_id = id_
+                print("!= 00:",closest_match_id, "id:",id_)
     elif posisi == 2:
         print("posisi 2 a:",posisi)
         for id_, similarity in similarity_results:
@@ -110,7 +112,7 @@ def classify_sound(audio_path):
 
     # Define thresholds for distinguishing between human and mosquito sounds
     # Example thresholds, adjust as needed based on your data
-    threshold = 1
+    threshold = 1.5
 
     # Apply simple rules to classify the sound
     resultAverage = np.mean(features)
@@ -138,12 +140,12 @@ def processDetect(unique_filename):
     # CSV file location and audio directory lokal
     # csv_file = r"E:\KERJA\spudniklab\InsectoscopeProjectApiLokalDisk\data\metadata\data.csv"
     # csv_dangerous_species = r"E:\KERJA\spudniklab\InsectoscopeProjectApiLokalDisk\data\metadata\dangerous_species.csv"
-    # audio_dir = r"E:\KERJA\spudniklab\InsectoscopeProjectApiLokalDisk\data\audionew"
+    audio_dir = r"E:\KERJA\spudniklab\InsectoscopeProjeckAPI\data\audio"
 
     # CSV file location and audio directory live
     csv_file = os.path.join(os.path.dirname(__file__), 'data', 'metadata', 'data.csv')
     csv_dangerous_species = os.path.join(os.path.dirname(__file__), 'data', 'metadata', 'dangerous_species.csv')
-    audio_dir = os.path.join(os.path.dirname(__file__), 'data', 'audio')
+    # audio_dir = os.path.join(os.path.dirname(__file__), 'data', 'audio')
 
     # Read data from CSV
     csv_data = read_csv(csv_file)
